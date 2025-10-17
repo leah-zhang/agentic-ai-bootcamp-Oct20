@@ -1,0 +1,2804 @@
+{
+  "press_releases": [
+    {
+      "ticker": "AAPL",
+      "title": "Apple Inc. Announces Q4 2023 Earnings",
+      "url": "https://news.aapl.com/q42023-earnings",
+      "date": "2023-08-12",
+      "text": "Highlighting a solid performance in Q4 2023, Apple Inc. (AAPL) recorded revenue of $122.15 billion, net income of $18.67 billion, and EPS of $6.8."
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple Inc. Announces Q3 2023 Earnings",
+      "url": "https://news.aapl.com/q32023-earnings",
+      "date": "2023-06-26",
+      "text": "Apple Inc. (AAPL) today announced its financial results for the Q3 2023, reporting revenue of $134.45 billion and net income of $14.57 billion. Earnings per share (EPS) were $3.52."
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple Inc. Reports Q3 2023 Results",
+      "url": "https://news.aapl.com/q32023-earnings",
+      "date": "2023-10-04",
+      "text": "With revenue of $32.05 billion and net income of $5.71 billion, Apple Inc. (AAPL) reported a strong Q3 2023. EPS came in at $1.41."
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple Inc. Reports Better-Than-Expected Q1 2023 Earnings",
+      "url": "https://news.aapl.com/q12023-earnings",
+      "date": "2023-01-20",
+      "text": "Apple Inc. (AAPL) reported its Q1 2023 earnings today, generating $147.58 billion in revenue and $26.14 billion in profit. EPS stood at $11.26."
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple Inc. Reports Q1 2023 Results",
+      "url": "https://news.aapl.com/q12023-earnings",
+      "date": "2023-07-25",
+      "text": "Apple Inc. (AAPL) announced Q1 2023 revenue totaling $95.99 billion, with earnings of $10.72 billion. The resulting EPS was $20.08."
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple Inc. Unveils Q4 2023 Revenue and Profit Numbers",
+      "url": "https://news.aapl.com/q42023-earnings",
+      "date": "2023-11-03",
+      "text": "For the Q4 2023, Apple Inc. (AAPL) revealed financials showing $79.0 billion in revenue and $14.34 billion in net profit. EPS was reported as $17.6."
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple Inc. Unveils Q1 2023 Revenue and Profit Numbers",
+      "url": "https://news.aapl.com/q12023-earnings",
+      "date": "2023-09-02",
+      "text": "Highlighting a solid performance in Q1 2023, Apple Inc. (AAPL) recorded revenue of $147.88 billion, net income of $42.23 billion, and EPS of $17.84."
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple Inc. Announces Q4 2023 Earnings",
+      "url": "https://news.aapl.com/q42023-earnings",
+      "date": "2023-12-20",
+      "text": "Apple Inc. (AAPL) today announced its financial results for the Q4 2023, reporting revenue of $106.31 billion and net income of $24.08 billion. Earnings per share (EPS) were $15.08."
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple Inc. Reports Q4 2023 Revenue of $98.66B",
+      "url": "https://news.aapl.com/q42023-earnings",
+      "date": "2023-11-18",
+      "text": "Apple Inc. (AAPL) reported its Q4 2023 earnings today, generating $98.66 billion in revenue and $14.43 billion in profit. EPS stood at $3.25."
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple Inc. Unveils Q3 2023 Revenue and Profit Numbers",
+      "url": "https://news.aapl.com/q32023-earnings",
+      "date": "2023-01-26",
+      "text": "Apple Inc. (AAPL) has published its Q3 2023 earnings, achieving a revenue of $97.85 billion, net income of $20.24 billion, and EPS of $4.62."
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple Inc. Reports Q3 2023 Revenue of $11.21B",
+      "url": "https://news.aapl.com/q32023-earnings",
+      "date": "2023-11-14",
+      "text": "For the Q3 2023, Apple Inc. (AAPL) revealed financials showing $11.21 billion in revenue and $2.61 billion in net profit. EPS was reported as $3.63."
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple Inc. Delivers Earnings for Q4 2023",
+      "url": "https://news.aapl.com/q42023-earnings",
+      "date": "2023-06-23",
+      "text": "In the Q4 2023, Apple Inc. (AAPL) posted revenues of $39.21 billion, with net income standing at $11.73 billion. EPS was $2.42."
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple Inc. Issues Q4 2023 Earnings Statement",
+      "url": "https://news.aapl.com/q42023-earnings",
+      "date": "2023-06-26",
+      "text": "Apple Inc. (AAPL) announced Q4 2023 revenue totaling $40.75 billion, with earnings of $9.87 billion. The resulting EPS was $3.1."
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple Inc. Reports Q2 2023 Results",
+      "url": "https://news.aapl.com/q22023-earnings",
+      "date": "2023-09-06",
+      "text": "In the Q2 2023, Apple Inc. (AAPL) posted revenues of $53.56 billion, with net income standing at $7.67 billion. EPS was $7.8."
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple Inc. Reports Q3 2023 Results",
+      "url": "https://news.aapl.com/q32023-earnings",
+      "date": "2023-02-24",
+      "text": "Apple Inc. (AAPL) today announced its financial results for the Q3 2023, reporting revenue of $125.85 billion and net income of $27.71 billion. Earnings per share (EPS) were $14.48."
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple Inc. Reports Q2 2023 Revenue of $28.27B",
+      "url": "https://news.aapl.com/q22023-earnings",
+      "date": "2023-01-03",
+      "text": "Apple Inc. (AAPL) has published its Q2 2023 earnings, achieving a revenue of $28.27 billion, net income of $5.14 billion, and EPS of $3.78."
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple Inc. Announces Q3 2023 Earnings",
+      "url": "https://news.aapl.com/q32023-earnings",
+      "date": "2023-08-19",
+      "text": "In the Q3 2023, Apple Inc. (AAPL) posted revenues of $78.85 billion, with net income standing at $16.63 billion. EPS was $11.85."
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple Inc. Unveils Q4 2023 Revenue and Profit Numbers",
+      "url": "https://news.aapl.com/q42023-earnings",
+      "date": "2023-10-02",
+      "text": "During Q4 2023, Apple Inc. (AAPL) achieved revenue of $33.86 billion and net income of $8.35 billion, translating to earnings per share of $12.49."
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple Inc. Announces Q4 2023 Earnings",
+      "url": "https://news.aapl.com/q42023-earnings",
+      "date": "2023-07-07",
+      "text": "In the Q4 2023, Apple Inc. (AAPL) posted revenues of $95.68 billion, with net income standing at $10.34 billion. EPS was $17.15."
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple Inc. Unveils Q3 2023 Revenue and Profit Numbers",
+      "url": "https://news.aapl.com/q32023-earnings",
+      "date": "2023-01-07",
+      "text": "Apple Inc. (AAPL) today announced its financial results for the Q3 2023, reporting revenue of $55.47 billion and net income of $6.22 billion. Earnings per share (EPS) were $4.15."
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Microsoft Corporation Releases Financial Results for Q2 2023",
+      "url": "https://news.msft.com/q22023-earnings",
+      "date": "2023-09-28",
+      "text": "Microsoft Corporation (MSFT) today announced its financial results for the Q2 2023, reporting revenue of $47.27 billion and net income of $12.56 billion. Earnings per share (EPS) were $3.07."
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Microsoft Corporation Delivers Earnings for Q3 2023",
+      "url": "https://news.msft.com/q32023-earnings",
+      "date": "2023-06-10",
+      "text": "In the Q3 2023, Microsoft Corporation (MSFT) posted revenues of $138.93 billion, with net income standing at $23.18 billion. EPS was $17.53."
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Microsoft Corporation Reports Q3 2023 Results",
+      "url": "https://news.msft.com/q32023-earnings",
+      "date": "2023-07-20",
+      "text": "For the Q3 2023, Microsoft Corporation (MSFT) revealed financials showing $80.6 billion in revenue and $12.64 billion in net profit. EPS was reported as $4.07."
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Microsoft Corporation Reports Q4 2023 Revenue of $97.77B",
+      "url": "https://news.msft.com/q42023-earnings",
+      "date": "2023-09-04",
+      "text": "Highlighting a solid performance in Q4 2023, Microsoft Corporation (MSFT) recorded revenue of $97.77 billion, net income of $21.95 billion, and EPS of $8.16."
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Microsoft Corporation Delivers Earnings for Q4 2023",
+      "url": "https://news.msft.com/q42023-earnings",
+      "date": "2023-08-11",
+      "text": "According to today's release, Microsoft Corporation (MSFT) achieved $103.96B revenue and $30.05B income for Q4 2023, resulting in an EPS of $8.51."
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Microsoft Corporation Reports Better-Than-Expected Q3 2023 Earnings",
+      "url": "https://news.msft.com/q32023-earnings",
+      "date": "2023-06-09",
+      "text": "Highlighting a solid performance in Q3 2023, Microsoft Corporation (MSFT) recorded revenue of $48.38 billion, net income of $8.83 billion, and EPS of $2.44."
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Microsoft Corporation Reports Better-Than-Expected Q1 2023 Earnings",
+      "url": "https://news.msft.com/q12023-earnings",
+      "date": "2023-03-05",
+      "text": "Highlighting a solid performance in Q1 2023, Microsoft Corporation (MSFT) recorded revenue of $61.23 billion, net income of $9.77 billion, and EPS of $17.62."
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Microsoft Corporation Unveils Q3 2023 Revenue and Profit Numbers",
+      "url": "https://news.msft.com/q32023-earnings",
+      "date": "2023-02-15",
+      "text": "In the Q3 2023, Microsoft Corporation (MSFT) posted revenues of $43.92 billion, with net income standing at $5.72 billion. EPS was $1.46."
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Microsoft Corporation Reports Q3 2023 Revenue of $124.14B",
+      "url": "https://news.msft.com/q32023-earnings",
+      "date": "2023-12-30",
+      "text": "Highlighting a solid performance in Q3 2023, Microsoft Corporation (MSFT) recorded revenue of $124.14 billion, net income of $24.3 billion, and EPS of $22.07."
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Microsoft Corporation Posts Strong Q4 2023 Financials",
+      "url": "https://news.msft.com/q42023-earnings",
+      "date": "2023-02-09",
+      "text": "With revenue of $126.44 billion and net income of $32.19 billion, Microsoft Corporation (MSFT) reported a strong Q4 2023. EPS came in at $15.33."
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Microsoft Corporation Issues Q2 2023 Earnings Statement",
+      "url": "https://news.msft.com/q22023-earnings",
+      "date": "2023-01-01",
+      "text": "Microsoft Corporation (MSFT) has published its Q2 2023 earnings, achieving a revenue of $120.34 billion, net income of $22.52 billion, and EPS of $11.92."
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Microsoft Corporation Announces Q1 2023 Earnings",
+      "url": "https://news.msft.com/q12023-earnings",
+      "date": "2023-02-08",
+      "text": "With revenue of $125.09 billion and net income of $18.27 billion, Microsoft Corporation (MSFT) reported a strong Q1 2023. EPS came in at $5.77."
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Microsoft Corporation Announces Q3 2023 Earnings",
+      "url": "https://news.msft.com/q32023-earnings",
+      "date": "2023-03-10",
+      "text": "According to today's release, Microsoft Corporation (MSFT) achieved $117.98B revenue and $28.11B income for Q3 2023, resulting in an EPS of $37.05."
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Microsoft Corporation Issues Q3 2023 Earnings Statement",
+      "url": "https://news.msft.com/q32023-earnings",
+      "date": "2023-09-16",
+      "text": "Microsoft Corporation (MSFT) announced Q3 2023 revenue totaling $147.06 billion, with earnings of $41.61 billion. The resulting EPS was $10.36."
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Microsoft Corporation Reports Q1 2023 Revenue of $88.77B",
+      "url": "https://news.msft.com/q12023-earnings",
+      "date": "2023-08-12",
+      "text": "Microsoft Corporation (MSFT) announced Q1 2023 revenue totaling $88.77 billion, with earnings of $11.48 billion. The resulting EPS was $2.67."
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Microsoft Corporation Reports Q2 2023 Revenue of $137.08B",
+      "url": "https://news.msft.com/q22023-earnings",
+      "date": "2023-12-28",
+      "text": "In the Q2 2023, Microsoft Corporation (MSFT) posted revenues of $137.08 billion, with net income standing at $35.75 billion. EPS was $14.64."
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Microsoft Corporation Reports Q1 2023 Revenue of $110.61B",
+      "url": "https://news.msft.com/q12023-earnings",
+      "date": "2023-11-02",
+      "text": "Highlighting a solid performance in Q1 2023, Microsoft Corporation (MSFT) recorded revenue of $110.61 billion, net income of $19.96 billion, and EPS of $22.95."
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Microsoft Corporation Releases Financial Results for Q1 2023",
+      "url": "https://news.msft.com/q12023-earnings",
+      "date": "2023-05-18",
+      "text": "Microsoft Corporation (MSFT) today announced its financial results for the Q1 2023, reporting revenue of $106.57 billion and net income of $21.61 billion. Earnings per share (EPS) were $21.17."
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Microsoft Corporation Releases Financial Results for Q2 2023",
+      "url": "https://news.msft.com/q22023-earnings",
+      "date": "2023-03-23",
+      "text": "Microsoft Corporation (MSFT) today announced its financial results for the Q2 2023, reporting revenue of $74.55 billion and net income of $20.76 billion. Earnings per share (EPS) were $9.95."
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Microsoft Corporation Issues Q4 2023 Earnings Statement",
+      "url": "https://news.msft.com/q42023-earnings",
+      "date": "2023-01-15",
+      "text": "Microsoft Corporation (MSFT) reported its Q4 2023 earnings today, generating $46.02 billion in revenue and $8.31 billion in profit. EPS stood at $5.08."
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Alphabet Inc. Reports Better-Than-Expected Q4 2023 Earnings",
+      "url": "https://news.googl.com/q42023-earnings",
+      "date": "2023-08-01",
+      "text": "With revenue of $76.3 billion and net income of $21.59 billion, Alphabet Inc. (GOOGL) reported a strong Q4 2023. EPS came in at $13.39."
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Alphabet Inc. Issues Q1 2023 Earnings Statement",
+      "url": "https://news.googl.com/q12023-earnings",
+      "date": "2023-04-06",
+      "text": "Alphabet Inc. (GOOGL) has published its Q1 2023 earnings, achieving a revenue of $48.07 billion, net income of $9.49 billion, and EPS of $3.89."
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Alphabet Inc. Reports Q4 2023 Results",
+      "url": "https://news.googl.com/q42023-earnings",
+      "date": "2023-01-02",
+      "text": "According to today's release, Alphabet Inc. (GOOGL) achieved $136.57B revenue and $23.57B income for Q4 2023, resulting in an EPS of $5.38."
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Alphabet Inc. Delivers Earnings for Q4 2023",
+      "url": "https://news.googl.com/q42023-earnings",
+      "date": "2023-06-08",
+      "text": "In the Q4 2023, Alphabet Inc. (GOOGL) posted revenues of $96.91 billion, with net income standing at $17.39 billion. EPS was $10.42."
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Alphabet Inc. Announces Q3 2023 Earnings",
+      "url": "https://news.googl.com/q32023-earnings",
+      "date": "2023-12-05",
+      "text": "During Q3 2023, Alphabet Inc. (GOOGL) achieved revenue of $15.36 billion and net income of $2.77 billion, translating to earnings per share of $0.77."
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Alphabet Inc. Announces Q2 2023 Earnings",
+      "url": "https://news.googl.com/q22023-earnings",
+      "date": "2023-07-09",
+      "text": "For the Q2 2023, Alphabet Inc. (GOOGL) revealed financials showing $104.1 billion in revenue and $25.65 billion in net profit. EPS was reported as $6.77."
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Alphabet Inc. Delivers Earnings for Q1 2023",
+      "url": "https://news.googl.com/q12023-earnings",
+      "date": "2023-03-01",
+      "text": "Highlighting a solid performance in Q1 2023, Alphabet Inc. (GOOGL) recorded revenue of $28.19 billion, net income of $8.06 billion, and EPS of $2.87."
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Alphabet Inc. Releases Financial Results for Q1 2023",
+      "url": "https://news.googl.com/q12023-earnings",
+      "date": "2023-09-06",
+      "text": "Alphabet Inc. (GOOGL) announced Q1 2023 revenue totaling $22.48 billion, with earnings of $3.21 billion. The resulting EPS was $5.22."
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Alphabet Inc. Releases Financial Results for Q1 2023",
+      "url": "https://news.googl.com/q12023-earnings",
+      "date": "2023-01-25",
+      "text": "For the Q1 2023, Alphabet Inc. (GOOGL) revealed financials showing $100.8 billion in revenue and $16.02 billion in net profit. EPS was reported as $5.65."
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Alphabet Inc. Delivers Earnings for Q3 2023",
+      "url": "https://news.googl.com/q32023-earnings",
+      "date": "2023-04-13",
+      "text": "During Q3 2023, Alphabet Inc. (GOOGL) achieved revenue of $107.1 billion and net income of $32.01 billion, translating to earnings per share of $15.33."
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Alphabet Inc. Announces Q2 2023 Earnings",
+      "url": "https://news.googl.com/q22023-earnings",
+      "date": "2023-09-23",
+      "text": "During Q2 2023, Alphabet Inc. (GOOGL) achieved revenue of $114.72 billion and net income of $23.41 billion, translating to earnings per share of $12.55."
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Alphabet Inc. Releases Financial Results for Q4 2023",
+      "url": "https://news.googl.com/q42023-earnings",
+      "date": "2023-04-26",
+      "text": "Highlighting a solid performance in Q4 2023, Alphabet Inc. (GOOGL) recorded revenue of $46.1 billion, net income of $13.25 billion, and EPS of $5.9."
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Alphabet Inc. Delivers Earnings for Q1 2023",
+      "url": "https://news.googl.com/q12023-earnings",
+      "date": "2023-12-14",
+      "text": "Alphabet Inc. (GOOGL) today announced its financial results for the Q1 2023, reporting revenue of $82.27 billion and net income of $21.26 billion. Earnings per share (EPS) were $4.91."
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Alphabet Inc. Announces Q1 2023 Earnings",
+      "url": "https://news.googl.com/q12023-earnings",
+      "date": "2023-10-31",
+      "text": "Alphabet Inc. (GOOGL) has published its Q1 2023 earnings, achieving a revenue of $40.56 billion, net income of $5.69 billion, and EPS of $3.15."
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Alphabet Inc. Shares Q3 2023 Financial Highlights",
+      "url": "https://news.googl.com/q32023-earnings",
+      "date": "2023-07-31",
+      "text": "During Q3 2023, Alphabet Inc. (GOOGL) achieved revenue of $38.97 billion and net income of $5.13 billion, translating to earnings per share of $1.08."
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Alphabet Inc. Shares Q3 2023 Financial Highlights",
+      "url": "https://news.googl.com/q32023-earnings",
+      "date": "2023-05-09",
+      "text": "With revenue of $55.71 billion and net income of $8.95 billion, Alphabet Inc. (GOOGL) reported a strong Q3 2023. EPS came in at $1.91."
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Alphabet Inc. Reports Q1 2023 Revenue of $66.99B",
+      "url": "https://news.googl.com/q12023-earnings",
+      "date": "2023-04-11",
+      "text": "According to today's release, Alphabet Inc. (GOOGL) achieved $66.99B revenue and $13.53B income for Q1 2023, resulting in an EPS of $3.45."
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Alphabet Inc. Announces Q3 2023 Earnings",
+      "url": "https://news.googl.com/q32023-earnings",
+      "date": "2023-04-11",
+      "text": "According to today's release, Alphabet Inc. (GOOGL) achieved $121.78B revenue and $14.73B income for Q3 2023, resulting in an EPS of $9.95."
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Alphabet Inc. Delivers Earnings for Q2 2023",
+      "url": "https://news.googl.com/q22023-earnings",
+      "date": "2023-10-01",
+      "text": "During Q2 2023, Alphabet Inc. (GOOGL) achieved revenue of $103.52 billion and net income of $10.9 billion, translating to earnings per share of $2.8."
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Alphabet Inc. Reports Better-Than-Expected Q3 2023 Earnings",
+      "url": "https://news.googl.com/q32023-earnings",
+      "date": "2023-10-31",
+      "text": "Alphabet Inc. (GOOGL) today announced its financial results for the Q3 2023, reporting revenue of $111.58 billion and net income of $27.94 billion. Earnings per share (EPS) were $9.63."
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Amazon.com, Inc. Announces Q2 2023 Earnings",
+      "url": "https://news.amzn.com/q22023-earnings",
+      "date": "2023-12-11",
+      "text": "With revenue of $97.84 billion and net income of $22.73 billion, Amazon.com, Inc. (AMZN) reported a strong Q2 2023. EPS came in at $20.38."
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Amazon.com, Inc. Delivers Earnings for Q1 2023",
+      "url": "https://news.amzn.com/q12023-earnings",
+      "date": "2023-08-31",
+      "text": "For the Q1 2023, Amazon.com, Inc. (AMZN) revealed financials showing $102.21 billion in revenue and $19.33 billion in net profit. EPS was reported as $8.51."
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Amazon.com, Inc. Unveils Q2 2023 Revenue and Profit Numbers",
+      "url": "https://news.amzn.com/q22023-earnings",
+      "date": "2023-11-05",
+      "text": "Amazon.com, Inc. (AMZN) has published its Q2 2023 earnings, achieving a revenue of $91.69 billion, net income of $23.96 billion, and EPS of $10.54."
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Amazon.com, Inc. Delivers Earnings for Q1 2023",
+      "url": "https://news.amzn.com/q12023-earnings",
+      "date": "2023-10-15",
+      "text": "For the Q1 2023, Amazon.com, Inc. (AMZN) revealed financials showing $138.33 billion in revenue and $28.95 billion in net profit. EPS was reported as $5.92."
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Amazon.com, Inc. Reports Better-Than-Expected Q3 2023 Earnings",
+      "url": "https://news.amzn.com/q32023-earnings",
+      "date": "2023-03-11",
+      "text": "Amazon.com, Inc. (AMZN) today announced its financial results for the Q3 2023, reporting revenue of $51.79 billion and net income of $5.44 billion. Earnings per share (EPS) were $1.12."
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Amazon.com, Inc. Issues Q3 2023 Earnings Statement",
+      "url": "https://news.amzn.com/q32023-earnings",
+      "date": "2023-02-21",
+      "text": "Highlighting a solid performance in Q3 2023, Amazon.com, Inc. (AMZN) recorded revenue of $59.23 billion, net income of $14.42 billion, and EPS of $8.82."
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Amazon.com, Inc. Unveils Q1 2023 Revenue and Profit Numbers",
+      "url": "https://news.amzn.com/q12023-earnings",
+      "date": "2023-08-10",
+      "text": "Amazon.com, Inc. (AMZN) reported its Q1 2023 earnings today, generating $116.64 billion in revenue and $26.99 billion in profit. EPS stood at $8.9."
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Amazon.com, Inc. Reports Q1 2023 Results",
+      "url": "https://news.amzn.com/q12023-earnings",
+      "date": "2023-09-18",
+      "text": "Amazon.com, Inc. (AMZN) reported its Q1 2023 earnings today, generating $24.53 billion in revenue and $4.24 billion in profit. EPS stood at $1.81."
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Amazon.com, Inc. Reports Q4 2023 Revenue of $105.26B",
+      "url": "https://news.amzn.com/q42023-earnings",
+      "date": "2023-04-14",
+      "text": "Amazon.com, Inc. (AMZN) reported its Q4 2023 earnings today, generating $105.26 billion in revenue and $20.49 billion in profit. EPS stood at $4.85."
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Amazon.com, Inc. Issues Q3 2023 Earnings Statement",
+      "url": "https://news.amzn.com/q32023-earnings",
+      "date": "2023-10-01",
+      "text": "According to today's release, Amazon.com, Inc. (AMZN) achieved $119.33B revenue and $19.69B income for Q3 2023, resulting in an EPS of $5.13."
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Amazon.com, Inc. Delivers Earnings for Q1 2023",
+      "url": "https://news.amzn.com/q12023-earnings",
+      "date": "2023-06-04",
+      "text": "Amazon.com, Inc. (AMZN) announced Q1 2023 revenue totaling $37.79 billion, with earnings of $7.99 billion. The resulting EPS was $1.71."
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Amazon.com, Inc. Issues Q3 2023 Earnings Statement",
+      "url": "https://news.amzn.com/q32023-earnings",
+      "date": "2023-10-18",
+      "text": "Amazon.com, Inc. (AMZN) today announced its financial results for the Q3 2023, reporting revenue of $85.79 billion and net income of $20.13 billion. Earnings per share (EPS) were $4.37."
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Amazon.com, Inc. Posts Strong Q1 2023 Financials",
+      "url": "https://news.amzn.com/q12023-earnings",
+      "date": "2023-07-18",
+      "text": "With revenue of $80.44 billion and net income of $20.34 billion, Amazon.com, Inc. (AMZN) reported a strong Q1 2023. EPS came in at $6.15."
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Amazon.com, Inc. Reports Q4 2023 Results",
+      "url": "https://news.amzn.com/q42023-earnings",
+      "date": "2023-10-26",
+      "text": "In the Q4 2023, Amazon.com, Inc. (AMZN) posted revenues of $64.57 billion, with net income standing at $9.72 billion. EPS was $3.95."
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Amazon.com, Inc. Reports Q1 2023 Revenue of $14.62B",
+      "url": "https://news.amzn.com/q12023-earnings",
+      "date": "2023-05-18",
+      "text": "Amazon.com, Inc. (AMZN) reported its Q1 2023 earnings today, generating $14.62 billion in revenue and $2.95 billion in profit. EPS stood at $1.6."
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Amazon.com, Inc. Unveils Q1 2023 Revenue and Profit Numbers",
+      "url": "https://news.amzn.com/q12023-earnings",
+      "date": "2023-01-12",
+      "text": "Amazon.com, Inc. (AMZN) today announced its financial results for the Q1 2023, reporting revenue of $16.66 billion and net income of $4.2 billion. Earnings per share (EPS) were $2.77."
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Amazon.com, Inc. Reports Better-Than-Expected Q4 2023 Earnings",
+      "url": "https://news.amzn.com/q42023-earnings",
+      "date": "2023-08-29",
+      "text": "With revenue of $27.57 billion and net income of $5.49 billion, Amazon.com, Inc. (AMZN) reported a strong Q4 2023. EPS came in at $1.64."
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Amazon.com, Inc. Posts Strong Q2 2023 Financials",
+      "url": "https://news.amzn.com/q22023-earnings",
+      "date": "2023-04-16",
+      "text": "Amazon.com, Inc. (AMZN) has published its Q2 2023 earnings, achieving a revenue of $94.74 billion, net income of $13.13 billion, and EPS of $13.64."
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Amazon.com, Inc. Reports Q1 2023 Revenue of $65.91B",
+      "url": "https://news.amzn.com/q12023-earnings",
+      "date": "2023-09-26",
+      "text": "Amazon.com, Inc. (AMZN) reported its Q1 2023 earnings today, generating $65.91 billion in revenue and $18.77 billion in profit. EPS stood at $5.3."
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Amazon.com, Inc. Announces Q1 2023 Earnings",
+      "url": "https://news.amzn.com/q12023-earnings",
+      "date": "2023-02-28",
+      "text": "Amazon.com, Inc. (AMZN) has published its Q1 2023 earnings, achieving a revenue of $132.04 billion, net income of $21.52 billion, and EPS of $4.9."
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla, Inc. Announces Q3 2023 Earnings",
+      "url": "https://news.tsla.com/q32023-earnings",
+      "date": "2023-06-13",
+      "text": "In the Q3 2023, Tesla, Inc. (TSLA) posted revenues of $104.44 billion, with net income standing at $23.79 billion. EPS was $9.73."
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla, Inc. Announces Q2 2023 Earnings",
+      "url": "https://news.tsla.com/q22023-earnings",
+      "date": "2023-11-18",
+      "text": "During Q2 2023, Tesla, Inc. (TSLA) achieved revenue of $149.55 billion and net income of $24.36 billion, translating to earnings per share of $8.35."
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla, Inc. Reports Q3 2023 Results",
+      "url": "https://news.tsla.com/q32023-earnings",
+      "date": "2023-07-07",
+      "text": "Tesla, Inc. (TSLA) reported its Q3 2023 earnings today, generating $36.26 billion in revenue and $5.74 billion in profit. EPS stood at $1.31."
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla, Inc. Announces Q2 2023 Earnings",
+      "url": "https://news.tsla.com/q22023-earnings",
+      "date": "2023-06-11",
+      "text": "Tesla, Inc. (TSLA) today announced its financial results for the Q2 2023, reporting revenue of $104.37 billion and net income of $26.43 billion. Earnings per share (EPS) were $10.41."
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla, Inc. Unveils Q1 2023 Revenue and Profit Numbers",
+      "url": "https://news.tsla.com/q12023-earnings",
+      "date": "2023-09-11",
+      "text": "In the Q1 2023, Tesla, Inc. (TSLA) posted revenues of $129.49 billion, with net income standing at $26.03 billion. EPS was $7.7."
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla, Inc. Delivers Earnings for Q1 2023",
+      "url": "https://news.tsla.com/q12023-earnings",
+      "date": "2023-03-25",
+      "text": "According to today's release, Tesla, Inc. (TSLA) achieved $97.37B revenue and $26.2B income for Q1 2023, resulting in an EPS of $19.91."
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla, Inc. Reports Q4 2023 Revenue of $130.3B",
+      "url": "https://news.tsla.com/q42023-earnings",
+      "date": "2023-03-18",
+      "text": "Tesla, Inc. (TSLA) has published its Q4 2023 earnings, achieving a revenue of $130.3 billion, net income of $14.15 billion, and EPS of $2.89."
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla, Inc. Shares Q1 2023 Financial Highlights",
+      "url": "https://news.tsla.com/q12023-earnings",
+      "date": "2023-09-15",
+      "text": "Tesla, Inc. (TSLA) today announced its financial results for the Q1 2023, reporting revenue of $54.56 billion and net income of $7.15 billion. Earnings per share (EPS) were $4.04."
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla, Inc. Reports Better-Than-Expected Q4 2023 Earnings",
+      "url": "https://news.tsla.com/q42023-earnings",
+      "date": "2023-02-17",
+      "text": "Tesla, Inc. (TSLA) reported its Q4 2023 earnings today, generating $64.7 billion in revenue and $6.51 billion in profit. EPS stood at $9.02."
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla, Inc. Reports Better-Than-Expected Q2 2023 Earnings",
+      "url": "https://news.tsla.com/q22023-earnings",
+      "date": "2023-05-17",
+      "text": "Tesla, Inc. (TSLA) today announced its financial results for the Q2 2023, reporting revenue of $111.07 billion and net income of $28.29 billion. Earnings per share (EPS) were $6.98."
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla, Inc. Issues Q1 2023 Earnings Statement",
+      "url": "https://news.tsla.com/q12023-earnings",
+      "date": "2023-08-22",
+      "text": "During Q1 2023, Tesla, Inc. (TSLA) achieved revenue of $44.74 billion and net income of $7.45 billion, translating to earnings per share of $1.52."
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla, Inc. Posts Strong Q3 2023 Financials",
+      "url": "https://news.tsla.com/q32023-earnings",
+      "date": "2023-02-14",
+      "text": "With revenue of $90.43 billion and net income of $15.17 billion, Tesla, Inc. (TSLA) reported a strong Q3 2023. EPS came in at $3.41."
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla, Inc. Releases Financial Results for Q4 2023",
+      "url": "https://news.tsla.com/q42023-earnings",
+      "date": "2023-07-28",
+      "text": "In the Q4 2023, Tesla, Inc. (TSLA) posted revenues of $24.13 billion, with net income standing at $4.94 billion. EPS was $2.16."
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla, Inc. Issues Q2 2023 Earnings Statement",
+      "url": "https://news.tsla.com/q22023-earnings",
+      "date": "2023-01-09",
+      "text": "For the Q2 2023, Tesla, Inc. (TSLA) revealed financials showing $122.07 billion in revenue and $25.0 billion in net profit. EPS was reported as $7.37."
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla, Inc. Reports Q2 2023 Results",
+      "url": "https://news.tsla.com/q22023-earnings",
+      "date": "2023-05-28",
+      "text": "For the Q2 2023, Tesla, Inc. (TSLA) revealed financials showing $103.86 billion in revenue and $28.17 billion in net profit. EPS was reported as $5.7."
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla, Inc. Delivers Earnings for Q4 2023",
+      "url": "https://news.tsla.com/q42023-earnings",
+      "date": "2023-02-21",
+      "text": "For the Q4 2023, Tesla, Inc. (TSLA) revealed financials showing $73.13 billion in revenue and $17.88 billion in net profit. EPS was reported as $6.55."
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla, Inc. Delivers Earnings for Q4 2023",
+      "url": "https://news.tsla.com/q42023-earnings",
+      "date": "2023-09-08",
+      "text": "For the Q4 2023, Tesla, Inc. (TSLA) revealed financials showing $139.96 billion in revenue and $34.06 billion in net profit. EPS was reported as $12.21."
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla, Inc. Releases Financial Results for Q4 2023",
+      "url": "https://news.tsla.com/q42023-earnings",
+      "date": "2023-06-05",
+      "text": "Tesla, Inc. (TSLA) today announced its financial results for the Q4 2023, reporting revenue of $25.83 billion and net income of $5.37 billion. Earnings per share (EPS) were $1.4."
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla, Inc. Unveils Q4 2023 Revenue and Profit Numbers",
+      "url": "https://news.tsla.com/q42023-earnings",
+      "date": "2023-06-12",
+      "text": "Highlighting a solid performance in Q4 2023, Tesla, Inc. (TSLA) recorded revenue of $103.71 billion, net income of $20.36 billion, and EPS of $6.08."
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla, Inc. Unveils Q2 2023 Revenue and Profit Numbers",
+      "url": "https://news.tsla.com/q22023-earnings",
+      "date": "2023-02-24",
+      "text": "Highlighting a solid performance in Q2 2023, Tesla, Inc. (TSLA) recorded revenue of $142.15 billion, net income of $25.29 billion, and EPS of $9.02."
+    },
+    {
+      "ticker": "NVDA",
+      "title": "NVIDIA Corporation Unveils Q1 2023 Revenue and Profit Numbers",
+      "url": "https://news.nvda.com/q12023-earnings",
+      "date": "2023-06-19",
+      "text": "Highlighting a solid performance in Q1 2023, NVIDIA Corporation (NVDA) recorded revenue of $68.63 billion, net income of $9.37 billion, and EPS of $2.53."
+    },
+    {
+      "ticker": "NVDA",
+      "title": "NVIDIA Corporation Unveils Q4 2023 Revenue and Profit Numbers",
+      "url": "https://news.nvda.com/q42023-earnings",
+      "date": "2023-08-23",
+      "text": "NVIDIA Corporation (NVDA) announced Q4 2023 revenue totaling $149.32 billion, with earnings of $37.43 billion. The resulting EPS was $8.7."
+    },
+    {
+      "ticker": "NVDA",
+      "title": "NVIDIA Corporation Reports Q3 2023 Results",
+      "url": "https://news.nvda.com/q32023-earnings",
+      "date": "2023-04-13",
+      "text": "Highlighting a solid performance in Q3 2023, NVIDIA Corporation (NVDA) recorded revenue of $110.13 billion, net income of $17.74 billion, and EPS of $5.53."
+    },
+    {
+      "ticker": "NVDA",
+      "title": "NVIDIA Corporation Unveils Q3 2023 Revenue and Profit Numbers",
+      "url": "https://news.nvda.com/q32023-earnings",
+      "date": "2023-05-04",
+      "text": "NVIDIA Corporation (NVDA) today announced its financial results for the Q3 2023, reporting revenue of $107.45 billion and net income of $19.21 billion. Earnings per share (EPS) were $4.75."
+    },
+    {
+      "ticker": "NVDA",
+      "title": "NVIDIA Corporation Releases Financial Results for Q3 2023",
+      "url": "https://news.nvda.com/q32023-earnings",
+      "date": "2023-10-06",
+      "text": "In the Q3 2023, NVIDIA Corporation (NVDA) posted revenues of $110.37 billion, with net income standing at $24.09 billion. EPS was $5.25."
+    },
+    {
+      "ticker": "NVDA",
+      "title": "NVIDIA Corporation Reports Q1 2023 Results",
+      "url": "https://news.nvda.com/q12023-earnings",
+      "date": "2023-02-20",
+      "text": "During Q1 2023, NVIDIA Corporation (NVDA) achieved revenue of $90.01 billion and net income of $16.16 billion, translating to earnings per share of $5.64."
+    },
+    {
+      "ticker": "NVDA",
+      "title": "NVIDIA Corporation Delivers Earnings for Q3 2023",
+      "url": "https://news.nvda.com/q32023-earnings",
+      "date": "2023-09-06",
+      "text": "With revenue of $23.51 billion and net income of $5.25 billion, NVIDIA Corporation (NVDA) reported a strong Q3 2023. EPS came in at $1.06."
+    },
+    {
+      "ticker": "NVDA",
+      "title": "NVIDIA Corporation Announces Q2 2023 Earnings",
+      "url": "https://news.nvda.com/q22023-earnings",
+      "date": "2023-03-06",
+      "text": "NVIDIA Corporation (NVDA) reported its Q2 2023 earnings today, generating $19.99 billion in revenue and $5.4 billion in profit. EPS stood at $7.63."
+    },
+    {
+      "ticker": "NVDA",
+      "title": "NVIDIA Corporation Posts Strong Q2 2023 Financials",
+      "url": "https://news.nvda.com/q22023-earnings",
+      "date": "2023-09-17",
+      "text": "According to today's release, NVIDIA Corporation (NVDA) achieved $142.62B revenue and $39.28B income for Q2 2023, resulting in an EPS of $48.98."
+    },
+    {
+      "ticker": "NVDA",
+      "title": "NVIDIA Corporation Posts Strong Q4 2023 Financials",
+      "url": "https://news.nvda.com/q42023-earnings",
+      "date": "2023-06-06",
+      "text": "NVIDIA Corporation (NVDA) reported its Q4 2023 earnings today, generating $69.97 billion in revenue and $18.64 billion in profit. EPS stood at $4.26."
+    },
+    {
+      "ticker": "NVDA",
+      "title": "NVIDIA Corporation Posts Strong Q2 2023 Financials",
+      "url": "https://news.nvda.com/q22023-earnings",
+      "date": "2023-09-11",
+      "text": "In the Q2 2023, NVIDIA Corporation (NVDA) posted revenues of $26.01 billion, with net income standing at $7.49 billion. EPS was $3.19."
+    },
+    {
+      "ticker": "NVDA",
+      "title": "NVIDIA Corporation Unveils Q4 2023 Revenue and Profit Numbers",
+      "url": "https://news.nvda.com/q42023-earnings",
+      "date": "2023-12-11",
+      "text": "With revenue of $32.16 billion and net income of $8.18 billion, NVIDIA Corporation (NVDA) reported a strong Q4 2023. EPS came in at $3.64."
+    },
+    {
+      "ticker": "NVDA",
+      "title": "NVIDIA Corporation Releases Financial Results for Q1 2023",
+      "url": "https://news.nvda.com/q12023-earnings",
+      "date": "2023-09-12",
+      "text": "With revenue of $124.8 billion and net income of $20.74 billion, NVIDIA Corporation (NVDA) reported a strong Q1 2023. EPS came in at $10.06."
+    },
+    {
+      "ticker": "NVDA",
+      "title": "NVIDIA Corporation Unveils Q3 2023 Revenue and Profit Numbers",
+      "url": "https://news.nvda.com/q32023-earnings",
+      "date": "2023-04-04",
+      "text": "NVIDIA Corporation (NVDA) reported its Q3 2023 earnings today, generating $139.75 billion in revenue and $24.57 billion in profit. EPS stood at $5.94."
+    },
+    {
+      "ticker": "NVDA",
+      "title": "NVIDIA Corporation Delivers Earnings for Q4 2023",
+      "url": "https://news.nvda.com/q42023-earnings",
+      "date": "2023-04-11",
+      "text": "With revenue of $25.04 billion and net income of $4.13 billion, NVIDIA Corporation (NVDA) reported a strong Q4 2023. EPS came in at $0.93."
+    },
+    {
+      "ticker": "NVDA",
+      "title": "NVIDIA Corporation Reports Better-Than-Expected Q2 2023 Earnings",
+      "url": "https://news.nvda.com/q22023-earnings",
+      "date": "2023-06-29",
+      "text": "In the Q2 2023, NVIDIA Corporation (NVDA) posted revenues of $14.97 billion, with net income standing at $1.88 billion. EPS was $0.39."
+    },
+    {
+      "ticker": "NVDA",
+      "title": "NVIDIA Corporation Unveils Q1 2023 Revenue and Profit Numbers",
+      "url": "https://news.nvda.com/q12023-earnings",
+      "date": "2023-02-15",
+      "text": "During Q1 2023, NVIDIA Corporation (NVDA) achieved revenue of $15.69 billion and net income of $1.95 billion, translating to earnings per share of $2.64."
+    },
+    {
+      "ticker": "NVDA",
+      "title": "NVIDIA Corporation Issues Q4 2023 Earnings Statement",
+      "url": "https://news.nvda.com/q42023-earnings",
+      "date": "2023-08-10",
+      "text": "NVIDIA Corporation (NVDA) reported its Q4 2023 earnings today, generating $15.04 billion in revenue and $2.35 billion in profit. EPS stood at $0.53."
+    },
+    {
+      "ticker": "NVDA",
+      "title": "NVIDIA Corporation Posts Strong Q1 2023 Financials",
+      "url": "https://news.nvda.com/q12023-earnings",
+      "date": "2023-04-11",
+      "text": "For the Q1 2023, NVIDIA Corporation (NVDA) revealed financials showing $87.42 billion in revenue and $12.52 billion in net profit. EPS was reported as $4.76."
+    },
+    {
+      "ticker": "NVDA",
+      "title": "NVIDIA Corporation Reports Q2 2023 Results",
+      "url": "https://news.nvda.com/q22023-earnings",
+      "date": "2023-02-04",
+      "text": "For the Q2 2023, NVIDIA Corporation (NVDA) revealed financials showing $78.82 billion in revenue and $8.27 billion in net profit. EPS was reported as $2.78."
+    },
+    {
+      "ticker": "META",
+      "title": "Meta Platforms, Inc. Issues Q3 2023 Earnings Statement",
+      "url": "https://news.meta.com/q32023-earnings",
+      "date": "2023-10-14",
+      "text": "In the Q3 2023, Meta Platforms, Inc. (META) posted revenues of $48.55 billion, with net income standing at $11.81 billion. EPS was $17.33."
+    },
+    {
+      "ticker": "META",
+      "title": "Meta Platforms, Inc. Delivers Earnings for Q3 2023",
+      "url": "https://news.meta.com/q32023-earnings",
+      "date": "2023-11-28",
+      "text": "Meta Platforms, Inc. (META) has published its Q3 2023 earnings, achieving a revenue of $56.14 billion, net income of $7.61 billion, and EPS of $8.09."
+    },
+    {
+      "ticker": "META",
+      "title": "Meta Platforms, Inc. Announces Q2 2023 Earnings",
+      "url": "https://news.meta.com/q22023-earnings",
+      "date": "2023-04-30",
+      "text": "In the Q2 2023, Meta Platforms, Inc. (META) posted revenues of $144.38 billion, with net income standing at $37.77 billion. EPS was $17.22."
+    },
+    {
+      "ticker": "META",
+      "title": "Meta Platforms, Inc. Releases Financial Results for Q2 2023",
+      "url": "https://news.meta.com/q22023-earnings",
+      "date": "2023-08-02",
+      "text": "Meta Platforms, Inc. (META) has published its Q2 2023 earnings, achieving a revenue of $51.17 billion, net income of $10.75 billion, and EPS of $2.72."
+    },
+    {
+      "ticker": "META",
+      "title": "Meta Platforms, Inc. Issues Q2 2023 Earnings Statement",
+      "url": "https://news.meta.com/q22023-earnings",
+      "date": "2023-10-28",
+      "text": "In the Q2 2023, Meta Platforms, Inc. (META) posted revenues of $112.34 billion, with net income standing at $32.53 billion. EPS was $17.98."
+    },
+    {
+      "ticker": "META",
+      "title": "Meta Platforms, Inc. Announces Q1 2023 Earnings",
+      "url": "https://news.meta.com/q12023-earnings",
+      "date": "2023-01-31",
+      "text": "Meta Platforms, Inc. (META) reported its Q1 2023 earnings today, generating $55.77 billion in revenue and $12.55 billion in profit. EPS stood at $23.31."
+    },
+    {
+      "ticker": "META",
+      "title": "Meta Platforms, Inc. Unveils Q1 2023 Revenue and Profit Numbers",
+      "url": "https://news.meta.com/q12023-earnings",
+      "date": "2023-06-06",
+      "text": "Meta Platforms, Inc. (META) has published its Q1 2023 earnings, achieving a revenue of $27.36 billion, net income of $7.98 billion, and EPS of $1.66."
+    },
+    {
+      "ticker": "META",
+      "title": "Meta Platforms, Inc. Issues Q2 2023 Earnings Statement",
+      "url": "https://news.meta.com/q22023-earnings",
+      "date": "2023-04-20",
+      "text": "Meta Platforms, Inc. (META) reported its Q2 2023 earnings today, generating $144.94 billion in revenue and $17.96 billion in profit. EPS stood at $4.66."
+    },
+    {
+      "ticker": "META",
+      "title": "Meta Platforms, Inc. Issues Q2 2023 Earnings Statement",
+      "url": "https://news.meta.com/q22023-earnings",
+      "date": "2023-10-23",
+      "text": "Meta Platforms, Inc. (META) today announced its financial results for the Q2 2023, reporting revenue of $84.75 billion and net income of $9.04 billion. Earnings per share (EPS) were $2.76."
+    },
+    {
+      "ticker": "META",
+      "title": "Meta Platforms, Inc. Posts Strong Q2 2023 Financials",
+      "url": "https://news.meta.com/q22023-earnings",
+      "date": "2023-09-25",
+      "text": "Meta Platforms, Inc. (META) has published its Q2 2023 earnings, achieving a revenue of $105.84 billion, net income of $30.2 billion, and EPS of $8.98."
+    },
+    {
+      "ticker": "META",
+      "title": "Meta Platforms, Inc. Shares Q3 2023 Financial Highlights",
+      "url": "https://news.meta.com/q32023-earnings",
+      "date": "2023-07-01",
+      "text": "According to today's release, Meta Platforms, Inc. (META) achieved $125.47B revenue and $31.04B income for Q3 2023, resulting in an EPS of $6.92."
+    },
+    {
+      "ticker": "META",
+      "title": "Meta Platforms, Inc. Reports Better-Than-Expected Q1 2023 Earnings",
+      "url": "https://news.meta.com/q12023-earnings",
+      "date": "2023-03-26",
+      "text": "In the Q1 2023, Meta Platforms, Inc. (META) posted revenues of $34.04 billion, with net income standing at $8.13 billion. EPS was $2.31."
+    },
+    {
+      "ticker": "META",
+      "title": "Meta Platforms, Inc. Releases Financial Results for Q1 2023",
+      "url": "https://news.meta.com/q12023-earnings",
+      "date": "2023-01-25",
+      "text": "Meta Platforms, Inc. (META) today announced its financial results for the Q1 2023, reporting revenue of $25.95 billion and net income of $5.63 billion. Earnings per share (EPS) were $1.6."
+    },
+    {
+      "ticker": "META",
+      "title": "Meta Platforms, Inc. Reports Q4 2023 Results",
+      "url": "https://news.meta.com/q42023-earnings",
+      "date": "2023-01-10",
+      "text": "For the Q4 2023, Meta Platforms, Inc. (META) revealed financials showing $122.46 billion in revenue and $30.36 billion in net profit. EPS was reported as $13.73."
+    },
+    {
+      "ticker": "META",
+      "title": "Meta Platforms, Inc. Releases Financial Results for Q1 2023",
+      "url": "https://news.meta.com/q12023-earnings",
+      "date": "2023-01-24",
+      "text": "In the Q1 2023, Meta Platforms, Inc. (META) posted revenues of $97.0 billion, with net income standing at $15.84 billion. EPS was $8.35."
+    },
+    {
+      "ticker": "META",
+      "title": "Meta Platforms, Inc. Releases Financial Results for Q2 2023",
+      "url": "https://news.meta.com/q22023-earnings",
+      "date": "2023-10-21",
+      "text": "In the Q2 2023, Meta Platforms, Inc. (META) posted revenues of $127.31 billion, with net income standing at $13.11 billion. EPS was $4.52."
+    },
+    {
+      "ticker": "META",
+      "title": "Meta Platforms, Inc. Shares Q3 2023 Financial Highlights",
+      "url": "https://news.meta.com/q32023-earnings",
+      "date": "2023-10-13",
+      "text": "Highlighting a solid performance in Q3 2023, Meta Platforms, Inc. (META) recorded revenue of $23.72 billion, net income of $4.42 billion, and EPS of $0.96."
+    },
+    {
+      "ticker": "META",
+      "title": "Meta Platforms, Inc. Announces Q2 2023 Earnings",
+      "url": "https://news.meta.com/q22023-earnings",
+      "date": "2023-06-01",
+      "text": "Meta Platforms, Inc. (META) today announced its financial results for the Q2 2023, reporting revenue of $51.0 billion and net income of $8.08 billion. Earnings per share (EPS) were $3.47."
+    },
+    {
+      "ticker": "META",
+      "title": "Meta Platforms, Inc. Shares Q4 2023 Financial Highlights",
+      "url": "https://news.meta.com/q42023-earnings",
+      "date": "2023-06-05",
+      "text": "Meta Platforms, Inc. (META) today announced its financial results for the Q4 2023, reporting revenue of $56.32 billion and net income of $15.7 billion. Earnings per share (EPS) were $7.92."
+    },
+    {
+      "ticker": "META",
+      "title": "Meta Platforms, Inc. Delivers Earnings for Q4 2023",
+      "url": "https://news.meta.com/q42023-earnings",
+      "date": "2023-09-29",
+      "text": "For the Q4 2023, Meta Platforms, Inc. (META) revealed financials showing $87.71 billion in revenue and $23.3 billion in net profit. EPS was reported as $10.02."
+    },
+    {
+      "ticker": "NFLX",
+      "title": "Netflix, Inc. Unveils Q1 2023 Revenue and Profit Numbers",
+      "url": "https://news.nflx.com/q12023-earnings",
+      "date": "2023-08-06",
+      "text": "During Q1 2023, Netflix, Inc. (NFLX) achieved revenue of $40.93 billion and net income of $6.78 billion, translating to earnings per share of $9.95."
+    },
+    {
+      "ticker": "NFLX",
+      "title": "Netflix, Inc. Posts Strong Q3 2023 Financials",
+      "url": "https://news.nflx.com/q32023-earnings",
+      "date": "2023-04-01",
+      "text": "During Q3 2023, Netflix, Inc. (NFLX) achieved revenue of $29.62 billion and net income of $8.07 billion, translating to earnings per share of $3.65."
+    },
+    {
+      "ticker": "NFLX",
+      "title": "Netflix, Inc. Delivers Earnings for Q1 2023",
+      "url": "https://news.nflx.com/q12023-earnings",
+      "date": "2023-10-24",
+      "text": "Netflix, Inc. (NFLX) reported its Q1 2023 earnings today, generating $13.67 billion in revenue and $3.7 billion in profit. EPS stood at $2.03."
+    },
+    {
+      "ticker": "NFLX",
+      "title": "Netflix, Inc. Reports Better-Than-Expected Q4 2023 Earnings",
+      "url": "https://news.nflx.com/q42023-earnings",
+      "date": "2023-09-21",
+      "text": "During Q4 2023, Netflix, Inc. (NFLX) achieved revenue of $69.74 billion and net income of $12.7 billion, translating to earnings per share of $6.47."
+    },
+    {
+      "ticker": "NFLX",
+      "title": "Netflix, Inc. Delivers Earnings for Q3 2023",
+      "url": "https://news.nflx.com/q32023-earnings",
+      "date": "2023-05-04",
+      "text": "According to today's release, Netflix, Inc. (NFLX) achieved $38.08B revenue and $10.14B income for Q3 2023, resulting in an EPS of $2.91."
+    },
+    {
+      "ticker": "NFLX",
+      "title": "Netflix, Inc. Unveils Q4 2023 Revenue and Profit Numbers",
+      "url": "https://news.nflx.com/q42023-earnings",
+      "date": "2023-10-19",
+      "text": "Netflix, Inc. (NFLX) announced Q4 2023 revenue totaling $90.35 billion, with earnings of $25.69 billion. The resulting EPS was $22.1."
+    },
+    {
+      "ticker": "NFLX",
+      "title": "Netflix, Inc. Unveils Q3 2023 Revenue and Profit Numbers",
+      "url": "https://news.nflx.com/q32023-earnings",
+      "date": "2023-03-13",
+      "text": "Netflix, Inc. (NFLX) has published its Q3 2023 earnings, achieving a revenue of $31.54 billion, net income of $7.74 billion, and EPS of $2.87."
+    },
+    {
+      "ticker": "NFLX",
+      "title": "Netflix, Inc. Issues Q2 2023 Earnings Statement",
+      "url": "https://news.nflx.com/q22023-earnings",
+      "date": "2023-10-25",
+      "text": "For the Q2 2023, Netflix, Inc. (NFLX) revealed financials showing $129.5 billion in revenue and $23.5 billion in net profit. EPS was reported as $6.22."
+    },
+    {
+      "ticker": "NFLX",
+      "title": "Netflix, Inc. Announces Q3 2023 Earnings",
+      "url": "https://news.nflx.com/q32023-earnings",
+      "date": "2023-07-02",
+      "text": "Netflix, Inc. (NFLX) has published its Q3 2023 earnings, achieving a revenue of $121.57 billion, net income of $26.21 billion, and EPS of $10.35."
+    },
+    {
+      "ticker": "NFLX",
+      "title": "Netflix, Inc. Reports Q4 2023 Results",
+      "url": "https://news.nflx.com/q42023-earnings",
+      "date": "2023-05-31",
+      "text": "Netflix, Inc. (NFLX) today announced its financial results for the Q4 2023, reporting revenue of $56.07 billion and net income of $11.87 billion. Earnings per share (EPS) were $3.56."
+    },
+    {
+      "ticker": "NFLX",
+      "title": "Netflix, Inc. Reports Q4 2023 Results",
+      "url": "https://news.nflx.com/q42023-earnings",
+      "date": "2023-07-08",
+      "text": "During Q4 2023, Netflix, Inc. (NFLX) achieved revenue of $126.48 billion and net income of $31.89 billion, translating to earnings per share of $10.87."
+    },
+    {
+      "ticker": "NFLX",
+      "title": "Netflix, Inc. Reports Q2 2023 Results",
+      "url": "https://news.nflx.com/q22023-earnings",
+      "date": "2023-08-04",
+      "text": "For the Q2 2023, Netflix, Inc. (NFLX) revealed financials showing $125.82 billion in revenue and $33.95 billion in net profit. EPS was reported as $36.02."
+    },
+    {
+      "ticker": "NFLX",
+      "title": "Netflix, Inc. Posts Strong Q2 2023 Financials",
+      "url": "https://news.nflx.com/q22023-earnings",
+      "date": "2023-12-21",
+      "text": "Netflix, Inc. (NFLX) announced Q2 2023 revenue totaling $93.65 billion, with earnings of $19.62 billion. The resulting EPS was $6.48."
+    },
+    {
+      "ticker": "NFLX",
+      "title": "Netflix, Inc. Releases Financial Results for Q4 2023",
+      "url": "https://news.nflx.com/q42023-earnings",
+      "date": "2023-07-05",
+      "text": "During Q4 2023, Netflix, Inc. (NFLX) achieved revenue of $27.62 billion and net income of $4.69 billion, translating to earnings per share of $7.13."
+    },
+    {
+      "ticker": "NFLX",
+      "title": "Netflix, Inc. Shares Q3 2023 Financial Highlights",
+      "url": "https://news.nflx.com/q32023-earnings",
+      "date": "2023-04-30",
+      "text": "For the Q3 2023, Netflix, Inc. (NFLX) revealed financials showing $73.17 billion in revenue and $11.52 billion in net profit. EPS was reported as $3.61."
+    },
+    {
+      "ticker": "NFLX",
+      "title": "Netflix, Inc. Reports Better-Than-Expected Q2 2023 Earnings",
+      "url": "https://news.nflx.com/q22023-earnings",
+      "date": "2023-06-28",
+      "text": "During Q2 2023, Netflix, Inc. (NFLX) achieved revenue of $135.56 billion and net income of $14.32 billion, translating to earnings per share of $3.02."
+    },
+    {
+      "ticker": "NFLX",
+      "title": "Netflix, Inc. Issues Q4 2023 Earnings Statement",
+      "url": "https://news.nflx.com/q42023-earnings",
+      "date": "2023-11-03",
+      "text": "Netflix, Inc. (NFLX) today announced its financial results for the Q4 2023, reporting revenue of $74.32 billion and net income of $21.45 billion. Earnings per share (EPS) were $6.84."
+    },
+    {
+      "ticker": "NFLX",
+      "title": "Netflix, Inc. Unveils Q1 2023 Revenue and Profit Numbers",
+      "url": "https://news.nflx.com/q12023-earnings",
+      "date": "2023-09-22",
+      "text": "In the Q1 2023, Netflix, Inc. (NFLX) posted revenues of $69.51 billion, with net income standing at $12.29 billion. EPS was $3.67."
+    },
+    {
+      "ticker": "NFLX",
+      "title": "Netflix, Inc. Shares Q4 2023 Financial Highlights",
+      "url": "https://news.nflx.com/q42023-earnings",
+      "date": "2023-03-06",
+      "text": "Netflix, Inc. (NFLX) today announced its financial results for the Q4 2023, reporting revenue of $118.7 billion and net income of $15.69 billion. Earnings per share (EPS) were $3.36."
+    },
+    {
+      "ticker": "NFLX",
+      "title": "Netflix, Inc. Reports Q4 2023 Revenue of $37.5B",
+      "url": "https://news.nflx.com/q42023-earnings",
+      "date": "2023-11-01",
+      "text": "With revenue of $37.5 billion and net income of $5.21 billion, Netflix, Inc. (NFLX) reported a strong Q4 2023. EPS came in at $2.46."
+    },
+    {
+      "ticker": "INTC",
+      "title": "Intel Corporation Reports Q4 2023 Revenue of $145.21B",
+      "url": "https://news.intc.com/q42023-earnings",
+      "date": "2023-11-23",
+      "text": "According to today's release, Intel Corporation (INTC) achieved $145.21B revenue and $33.79B income for Q4 2023, resulting in an EPS of $7.72."
+    },
+    {
+      "ticker": "INTC",
+      "title": "Intel Corporation Posts Strong Q3 2023 Financials",
+      "url": "https://news.intc.com/q32023-earnings",
+      "date": "2023-11-18",
+      "text": "In the Q3 2023, Intel Corporation (INTC) posted revenues of $85.97 billion, with net income standing at $19.66 billion. EPS was $4.28."
+    },
+    {
+      "ticker": "INTC",
+      "title": "Intel Corporation Posts Strong Q3 2023 Financials",
+      "url": "https://news.intc.com/q32023-earnings",
+      "date": "2023-08-24",
+      "text": "Intel Corporation (INTC) has published its Q3 2023 earnings, achieving a revenue of $117.98 billion, net income of $34.56 billion, and EPS of $9.07."
+    },
+    {
+      "ticker": "INTC",
+      "title": "Intel Corporation Shares Q2 2023 Financial Highlights",
+      "url": "https://news.intc.com/q22023-earnings",
+      "date": "2023-07-21",
+      "text": "According to today's release, Intel Corporation (INTC) achieved $79.2B revenue and $8.97B income for Q2 2023, resulting in an EPS of $7.01."
+    },
+    {
+      "ticker": "INTC",
+      "title": "Intel Corporation Reports Q1 2023 Results",
+      "url": "https://news.intc.com/q12023-earnings",
+      "date": "2023-08-05",
+      "text": "Intel Corporation (INTC) today announced its financial results for the Q1 2023, reporting revenue of $131.79 billion and net income of $33.86 billion. Earnings per share (EPS) were $10.81."
+    },
+    {
+      "ticker": "INTC",
+      "title": "Intel Corporation Announces Q2 2023 Earnings",
+      "url": "https://news.intc.com/q22023-earnings",
+      "date": "2023-02-17",
+      "text": "For the Q2 2023, Intel Corporation (INTC) revealed financials showing $99.99 billion in revenue and $13.47 billion in net profit. EPS was reported as $24.95."
+    },
+    {
+      "ticker": "INTC",
+      "title": "Intel Corporation Delivers Earnings for Q1 2023",
+      "url": "https://news.intc.com/q12023-earnings",
+      "date": "2023-05-03",
+      "text": "Intel Corporation (INTC) has published its Q1 2023 earnings, achieving a revenue of $31.36 billion, net income of $7.54 billion, and EPS of $1.54."
+    },
+    {
+      "ticker": "INTC",
+      "title": "Intel Corporation Posts Strong Q3 2023 Financials",
+      "url": "https://news.intc.com/q32023-earnings",
+      "date": "2023-08-01",
+      "text": "Intel Corporation (INTC) today announced its financial results for the Q3 2023, reporting revenue of $121.85 billion and net income of $20.62 billion. Earnings per share (EPS) were $10.65."
+    },
+    {
+      "ticker": "INTC",
+      "title": "Intel Corporation Issues Q2 2023 Earnings Statement",
+      "url": "https://news.intc.com/q22023-earnings",
+      "date": "2023-07-05",
+      "text": "With revenue of $34.88 billion and net income of $4.73 billion, Intel Corporation (INTC) reported a strong Q2 2023. EPS came in at $2.16."
+    },
+    {
+      "ticker": "INTC",
+      "title": "Intel Corporation Announces Q2 2023 Earnings",
+      "url": "https://news.intc.com/q22023-earnings",
+      "date": "2023-02-13",
+      "text": "For the Q2 2023, Intel Corporation (INTC) revealed financials showing $136.31 billion in revenue and $19.73 billion in net profit. EPS was reported as $8.21."
+    },
+    {
+      "ticker": "INTC",
+      "title": "Intel Corporation Shares Q2 2023 Financial Highlights",
+      "url": "https://news.intc.com/q22023-earnings",
+      "date": "2023-07-06",
+      "text": "Intel Corporation (INTC) announced Q2 2023 revenue totaling $48.55 billion, with earnings of $5.12 billion. The resulting EPS was $4.09."
+    },
+    {
+      "ticker": "INTC",
+      "title": "Intel Corporation Reports Q4 2023 Revenue of $71.39B",
+      "url": "https://news.intc.com/q42023-earnings",
+      "date": "2023-02-19",
+      "text": "During Q4 2023, Intel Corporation (INTC) achieved revenue of $71.39 billion and net income of $20.75 billion, translating to earnings per share of $11.8."
+    },
+    {
+      "ticker": "INTC",
+      "title": "Intel Corporation Shares Q3 2023 Financial Highlights",
+      "url": "https://news.intc.com/q32023-earnings",
+      "date": "2023-11-21",
+      "text": "Intel Corporation (INTC) reported its Q3 2023 earnings today, generating $49.78 billion in revenue and $6.3 billion in profit. EPS stood at $1.63."
+    },
+    {
+      "ticker": "INTC",
+      "title": "Intel Corporation Issues Q1 2023 Earnings Statement",
+      "url": "https://news.intc.com/q12023-earnings",
+      "date": "2023-06-29",
+      "text": "Intel Corporation (INTC) reported its Q1 2023 earnings today, generating $148.22 billion in revenue and $40.46 billion in profit. EPS stood at $21.37."
+    },
+    {
+      "ticker": "INTC",
+      "title": "Intel Corporation Reports Q4 2023 Revenue of $127.81B",
+      "url": "https://news.intc.com/q42023-earnings",
+      "date": "2023-05-16",
+      "text": "In the Q4 2023, Intel Corporation (INTC) posted revenues of $127.81 billion, with net income standing at $14.07 billion. EPS was $20.18."
+    },
+    {
+      "ticker": "INTC",
+      "title": "Intel Corporation Reports Better-Than-Expected Q2 2023 Earnings",
+      "url": "https://news.intc.com/q22023-earnings",
+      "date": "2023-09-30",
+      "text": "Intel Corporation (INTC) has published its Q2 2023 earnings, achieving a revenue of $59.81 billion, net income of $15.24 billion, and EPS of $3.61."
+    },
+    {
+      "ticker": "INTC",
+      "title": "Intel Corporation Announces Q3 2023 Earnings",
+      "url": "https://news.intc.com/q32023-earnings",
+      "date": "2023-08-22",
+      "text": "Intel Corporation (INTC) today announced its financial results for the Q3 2023, reporting revenue of $30.38 billion and net income of $5.39 billion. Earnings per share (EPS) were $2.94."
+    },
+    {
+      "ticker": "INTC",
+      "title": "Intel Corporation Reports Q2 2023 Revenue of $13.95B",
+      "url": "https://news.intc.com/q22023-earnings",
+      "date": "2023-08-07",
+      "text": "According to today's release, Intel Corporation (INTC) achieved $13.95B revenue and $3.84B income for Q2 2023, resulting in an EPS of $1.05."
+    },
+    {
+      "ticker": "INTC",
+      "title": "Intel Corporation Reports Q4 2023 Revenue of $33.49B",
+      "url": "https://news.intc.com/q42023-earnings",
+      "date": "2023-03-22",
+      "text": "During Q4 2023, Intel Corporation (INTC) achieved revenue of $33.49 billion and net income of $6.89 billion, translating to earnings per share of $2.34."
+    },
+    {
+      "ticker": "INTC",
+      "title": "Intel Corporation Announces Q1 2023 Earnings",
+      "url": "https://news.intc.com/q12023-earnings",
+      "date": "2023-06-12",
+      "text": "Intel Corporation (INTC) reported its Q1 2023 earnings today, generating $19.86 billion in revenue and $2.89 billion in profit. EPS stood at $0.85."
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Oracle Corporation Reports Q4 2023 Revenue of $64.48B",
+      "url": "https://news.orcl.com/q42023-earnings",
+      "date": "2023-12-11",
+      "text": "During Q4 2023, Oracle Corporation (ORCL) achieved revenue of $64.48 billion and net income of $13.87 billion, translating to earnings per share of $3.58."
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Oracle Corporation Shares Q4 2023 Financial Highlights",
+      "url": "https://news.orcl.com/q42023-earnings",
+      "date": "2023-08-18",
+      "text": "Oracle Corporation (ORCL) announced Q4 2023 revenue totaling $148.03 billion, with earnings of $37.6 billion. The resulting EPS was $7.7."
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Oracle Corporation Reports Q1 2023 Revenue of $57.13B",
+      "url": "https://news.orcl.com/q12023-earnings",
+      "date": "2023-12-29",
+      "text": "Oracle Corporation (ORCL) today announced its financial results for the Q1 2023, reporting revenue of $57.13 billion and net income of $17.11 billion. Earnings per share (EPS) were $7.19."
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Oracle Corporation Posts Strong Q4 2023 Financials",
+      "url": "https://news.orcl.com/q42023-earnings",
+      "date": "2023-12-01",
+      "text": "For the Q4 2023, Oracle Corporation (ORCL) revealed financials showing $140.09 billion in revenue and $18.72 billion in net profit. EPS was reported as $15.07."
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Oracle Corporation Shares Q4 2023 Financial Highlights",
+      "url": "https://news.orcl.com/q42023-earnings",
+      "date": "2023-11-21",
+      "text": "Oracle Corporation (ORCL) announced Q4 2023 revenue totaling $131.26 billion, with earnings of $22.85 billion. The resulting EPS was $8.89."
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Oracle Corporation Reports Q2 2023 Results",
+      "url": "https://news.orcl.com/q22023-earnings",
+      "date": "2023-10-12",
+      "text": "During Q2 2023, Oracle Corporation (ORCL) achieved revenue of $147.5 billion and net income of $38.48 billion, translating to earnings per share of $9.12."
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Oracle Corporation Announces Q1 2023 Earnings",
+      "url": "https://news.orcl.com/q12023-earnings",
+      "date": "2023-01-24",
+      "text": "Oracle Corporation (ORCL) reported its Q1 2023 earnings today, generating $14.4 billion in revenue and $4.08 billion in profit. EPS stood at $4.84."
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Oracle Corporation Announces Q2 2023 Earnings",
+      "url": "https://news.orcl.com/q22023-earnings",
+      "date": "2023-04-09",
+      "text": "For the Q2 2023, Oracle Corporation (ORCL) revealed financials showing $133.78 billion in revenue and $23.02 billion in net profit. EPS was reported as $8.51."
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Oracle Corporation Announces Q4 2023 Earnings",
+      "url": "https://news.orcl.com/q42023-earnings",
+      "date": "2023-02-12",
+      "text": "For the Q4 2023, Oracle Corporation (ORCL) revealed financials showing $43.67 billion in revenue and $11.68 billion in net profit. EPS was reported as $2.59."
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Oracle Corporation Releases Financial Results for Q3 2023",
+      "url": "https://news.orcl.com/q32023-earnings",
+      "date": "2023-07-15",
+      "text": "With revenue of $65.34 billion and net income of $8.07 billion, Oracle Corporation (ORCL) reported a strong Q3 2023. EPS came in at $2.32."
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Oracle Corporation Reports Better-Than-Expected Q2 2023 Earnings",
+      "url": "https://news.orcl.com/q22023-earnings",
+      "date": "2023-02-05",
+      "text": "With revenue of $11.03 billion and net income of $2.36 billion, Oracle Corporation (ORCL) reported a strong Q2 2023. EPS came in at $0.53."
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Oracle Corporation Shares Q4 2023 Financial Highlights",
+      "url": "https://news.orcl.com/q42023-earnings",
+      "date": "2023-01-18",
+      "text": "In the Q4 2023, Oracle Corporation (ORCL) posted revenues of $27.69 billion, with net income standing at $4.88 billion. EPS was $2.87."
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Oracle Corporation Releases Financial Results for Q1 2023",
+      "url": "https://news.orcl.com/q12023-earnings",
+      "date": "2023-10-12",
+      "text": "Oracle Corporation (ORCL) has published its Q1 2023 earnings, achieving a revenue of $46.13 billion, net income of $6.26 billion, and EPS of $1.61."
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Oracle Corporation Posts Strong Q3 2023 Financials",
+      "url": "https://news.orcl.com/q32023-earnings",
+      "date": "2023-04-24",
+      "text": "According to today's release, Oracle Corporation (ORCL) achieved $104.05B revenue and $29.11B income for Q3 2023, resulting in an EPS of $26.94."
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Oracle Corporation Reports Q1 2023 Revenue of $18.22B",
+      "url": "https://news.orcl.com/q12023-earnings",
+      "date": "2023-10-23",
+      "text": "During Q1 2023, Oracle Corporation (ORCL) achieved revenue of $18.22 billion and net income of $4.25 billion, translating to earnings per share of $1.89."
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Oracle Corporation Reports Q4 2023 Revenue of $86.58B",
+      "url": "https://news.orcl.com/q42023-earnings",
+      "date": "2023-02-23",
+      "text": "Oracle Corporation (ORCL) has published its Q4 2023 earnings, achieving a revenue of $86.58 billion, net income of $20.16 billion, and EPS of $4.94."
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Oracle Corporation Reports Better-Than-Expected Q4 2023 Earnings",
+      "url": "https://news.orcl.com/q42023-earnings",
+      "date": "2023-04-01",
+      "text": "Oracle Corporation (ORCL) today announced its financial results for the Q4 2023, reporting revenue of $114.24 billion and net income of $28.85 billion. Earnings per share (EPS) were $47.06."
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Oracle Corporation Reports Q2 2023 Revenue of $47.77B",
+      "url": "https://news.orcl.com/q22023-earnings",
+      "date": "2023-04-13",
+      "text": "In the Q2 2023, Oracle Corporation (ORCL) posted revenues of $47.77 billion, with net income standing at $12.93 billion. EPS was $3.77."
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Oracle Corporation Reports Q2 2023 Results",
+      "url": "https://news.orcl.com/q22023-earnings",
+      "date": "2023-09-07",
+      "text": "For the Q2 2023, Oracle Corporation (ORCL) revealed financials showing $18.29 billion in revenue and $3.81 billion in net profit. EPS was reported as $1.03."
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Oracle Corporation Releases Financial Results for Q3 2023",
+      "url": "https://news.orcl.com/q32023-earnings",
+      "date": "2023-05-28",
+      "text": "Highlighting a solid performance in Q3 2023, Oracle Corporation (ORCL) recorded revenue of $100.75 billion, net income of $20.19 billion, and EPS of $4.1."
+    },
+    {
+      "ticker": "IBM",
+      "title": "International Business Machines Corporation Posts Strong Q1 2023 Financials",
+      "url": "https://news.ibm.com/q12023-earnings",
+      "date": "2023-08-07",
+      "text": "For the Q1 2023, International Business Machines Corporation (IBM) revealed financials showing $93.32 billion in revenue and $17.36 billion in net profit. EPS was reported as $3.97."
+    },
+    {
+      "ticker": "IBM",
+      "title": "International Business Machines Corporation Announces Q2 2023 Earnings",
+      "url": "https://news.ibm.com/q22023-earnings",
+      "date": "2023-07-16",
+      "text": "International Business Machines Corporation (IBM) today announced its financial results for the Q2 2023, reporting revenue of $100.92 billion and net income of $24.49 billion. Earnings per share (EPS) were $15.78."
+    },
+    {
+      "ticker": "IBM",
+      "title": "International Business Machines Corporation Delivers Earnings for Q3 2023",
+      "url": "https://news.ibm.com/q32023-earnings",
+      "date": "2023-12-21",
+      "text": "During Q3 2023, International Business Machines Corporation (IBM) achieved revenue of $63.02 billion and net income of $15.39 billion, translating to earnings per share of $7.05."
+    },
+    {
+      "ticker": "IBM",
+      "title": "International Business Machines Corporation Unveils Q2 2023 Revenue and Profit Numbers",
+      "url": "https://news.ibm.com/q22023-earnings",
+      "date": "2023-01-02",
+      "text": "For the Q2 2023, International Business Machines Corporation (IBM) revealed financials showing $104.71 billion in revenue and $17.62 billion in net profit. EPS was reported as $26.9."
+    },
+    {
+      "ticker": "IBM",
+      "title": "International Business Machines Corporation Posts Strong Q1 2023 Financials",
+      "url": "https://news.ibm.com/q12023-earnings",
+      "date": "2023-10-24",
+      "text": "According to today's release, International Business Machines Corporation (IBM) achieved $130.9B revenue and $14.61B income for Q1 2023, resulting in an EPS of $3.87."
+    },
+    {
+      "ticker": "IBM",
+      "title": "International Business Machines Corporation Unveils Q1 2023 Revenue and Profit Numbers",
+      "url": "https://news.ibm.com/q12023-earnings",
+      "date": "2023-01-24",
+      "text": "During Q1 2023, International Business Machines Corporation (IBM) achieved revenue of $31.61 billion and net income of $9.06 billion, translating to earnings per share of $14.56."
+    },
+    {
+      "ticker": "IBM",
+      "title": "International Business Machines Corporation Issues Q3 2023 Earnings Statement",
+      "url": "https://news.ibm.com/q32023-earnings",
+      "date": "2023-11-15",
+      "text": "For the Q3 2023, International Business Machines Corporation (IBM) revealed financials showing $47.84 billion in revenue and $9.53 billion in net profit. EPS was reported as $2.11."
+    },
+    {
+      "ticker": "IBM",
+      "title": "International Business Machines Corporation Releases Financial Results for Q1 2023",
+      "url": "https://news.ibm.com/q12023-earnings",
+      "date": "2023-03-11",
+      "text": "International Business Machines Corporation (IBM) has published its Q1 2023 earnings, achieving a revenue of $22.37 billion, net income of $3.98 billion, and EPS of $6.6."
+    },
+    {
+      "ticker": "IBM",
+      "title": "International Business Machines Corporation Issues Q1 2023 Earnings Statement",
+      "url": "https://news.ibm.com/q12023-earnings",
+      "date": "2023-02-03",
+      "text": "With revenue of $97.79 billion and net income of $28.26 billion, International Business Machines Corporation (IBM) reported a strong Q1 2023. EPS came in at $7.36."
+    },
+    {
+      "ticker": "IBM",
+      "title": "International Business Machines Corporation Delivers Earnings for Q4 2023",
+      "url": "https://news.ibm.com/q42023-earnings",
+      "date": "2023-09-13",
+      "text": "With revenue of $21.95 billion and net income of $4.95 billion, International Business Machines Corporation (IBM) reported a strong Q4 2023. EPS came in at $1.34."
+    },
+    {
+      "ticker": "IBM",
+      "title": "International Business Machines Corporation Reports Better-Than-Expected Q3 2023 Earnings",
+      "url": "https://news.ibm.com/q32023-earnings",
+      "date": "2023-07-30",
+      "text": "International Business Machines Corporation (IBM) today announced its financial results for the Q3 2023, reporting revenue of $43.57 billion and net income of $12.86 billion. Earnings per share (EPS) were $3.78."
+    },
+    {
+      "ticker": "IBM",
+      "title": "International Business Machines Corporation Shares Q3 2023 Financial Highlights",
+      "url": "https://news.ibm.com/q32023-earnings",
+      "date": "2023-12-04",
+      "text": "For the Q3 2023, International Business Machines Corporation (IBM) revealed financials showing $144.85 billion in revenue and $29.7 billion in net profit. EPS was reported as $6.68."
+    },
+    {
+      "ticker": "IBM",
+      "title": "International Business Machines Corporation Releases Financial Results for Q3 2023",
+      "url": "https://news.ibm.com/q32023-earnings",
+      "date": "2023-10-10",
+      "text": "With revenue of $98.91 billion and net income of $26.91 billion, International Business Machines Corporation (IBM) reported a strong Q3 2023. EPS came in at $7.34."
+    },
+    {
+      "ticker": "IBM",
+      "title": "International Business Machines Corporation Delivers Earnings for Q4 2023",
+      "url": "https://news.ibm.com/q42023-earnings",
+      "date": "2023-04-16",
+      "text": "For the Q4 2023, International Business Machines Corporation (IBM) revealed financials showing $35.6 billion in revenue and $4.14 billion in net profit. EPS was reported as $2.11."
+    },
+    {
+      "ticker": "IBM",
+      "title": "International Business Machines Corporation Reports Better-Than-Expected Q3 2023 Earnings",
+      "url": "https://news.ibm.com/q32023-earnings",
+      "date": "2023-01-13",
+      "text": "For the Q3 2023, International Business Machines Corporation (IBM) revealed financials showing $94.68 billion in revenue and $16.42 billion in net profit. EPS was reported as $3.49."
+    },
+    {
+      "ticker": "IBM",
+      "title": "International Business Machines Corporation Reports Q4 2023 Results",
+      "url": "https://news.ibm.com/q42023-earnings",
+      "date": "2023-09-12",
+      "text": "International Business Machines Corporation (IBM) today announced its financial results for the Q4 2023, reporting revenue of $22.77 billion and net income of $3.4 billion. Earnings per share (EPS) were $0.83."
+    },
+    {
+      "ticker": "IBM",
+      "title": "International Business Machines Corporation Announces Q2 2023 Earnings",
+      "url": "https://news.ibm.com/q22023-earnings",
+      "date": "2023-01-03",
+      "text": "Highlighting a solid performance in Q2 2023, International Business Machines Corporation (IBM) recorded revenue of $27.29 billion, net income of $6.01 billion, and EPS of $1.6."
+    },
+    {
+      "ticker": "IBM",
+      "title": "International Business Machines Corporation Reports Q3 2023 Revenue of $62.18B",
+      "url": "https://news.ibm.com/q32023-earnings",
+      "date": "2023-09-16",
+      "text": "International Business Machines Corporation (IBM) today announced its financial results for the Q3 2023, reporting revenue of $62.18 billion and net income of $16.68 billion. Earnings per share (EPS) were $22.16."
+    },
+    {
+      "ticker": "IBM",
+      "title": "International Business Machines Corporation Posts Strong Q4 2023 Financials",
+      "url": "https://news.ibm.com/q42023-earnings",
+      "date": "2023-09-02",
+      "text": "Highlighting a solid performance in Q4 2023, International Business Machines Corporation (IBM) recorded revenue of $142.81 billion, net income of $35.87 billion, and EPS of $24.32."
+    },
+    {
+      "ticker": "IBM",
+      "title": "International Business Machines Corporation Reports Q4 2023 Results",
+      "url": "https://news.ibm.com/q42023-earnings",
+      "date": "2023-07-25",
+      "text": "During Q4 2023, International Business Machines Corporation (IBM) achieved revenue of $35.87 billion and net income of $9.94 billion, translating to earnings per share of $3.23."
+    },
+    {
+      "ticker": "ADBE",
+      "title": "Adobe Inc. Delivers Earnings for Q1 2023",
+      "url": "https://news.adbe.com/q12023-earnings",
+      "date": "2023-05-14",
+      "text": "In the Q1 2023, Adobe Inc. (ADBE) posted revenues of $109.44 billion, with net income standing at $20.23 billion. EPS was $13.71."
+    },
+    {
+      "ticker": "ADBE",
+      "title": "Adobe Inc. Reports Q1 2023 Results",
+      "url": "https://news.adbe.com/q12023-earnings",
+      "date": "2023-09-27",
+      "text": "Adobe Inc. (ADBE) reported its Q1 2023 earnings today, generating $56.31 billion in revenue and $12.31 billion in profit. EPS stood at $4.2."
+    },
+    {
+      "ticker": "ADBE",
+      "title": "Adobe Inc. Reports Better-Than-Expected Q2 2023 Earnings",
+      "url": "https://news.adbe.com/q22023-earnings",
+      "date": "2023-02-23",
+      "text": "Adobe Inc. (ADBE) has published its Q2 2023 earnings, achieving a revenue of $45.29 billion, net income of $12.3 billion, and EPS of $3.28."
+    },
+    {
+      "ticker": "ADBE",
+      "title": "Adobe Inc. Reports Better-Than-Expected Q2 2023 Earnings",
+      "url": "https://news.adbe.com/q22023-earnings",
+      "date": "2023-07-09",
+      "text": "With revenue of $46.36 billion and net income of $6.54 billion, Adobe Inc. (ADBE) reported a strong Q2 2023. EPS came in at $3.88."
+    },
+    {
+      "ticker": "ADBE",
+      "title": "Adobe Inc. Posts Strong Q1 2023 Financials",
+      "url": "https://news.adbe.com/q12023-earnings",
+      "date": "2023-05-28",
+      "text": "With revenue of $73.86 billion and net income of $20.0 billion, Adobe Inc. (ADBE) reported a strong Q1 2023. EPS came in at $21.69."
+    },
+    {
+      "ticker": "ADBE",
+      "title": "Adobe Inc. Announces Q4 2023 Earnings",
+      "url": "https://news.adbe.com/q42023-earnings",
+      "date": "2023-07-11",
+      "text": "Adobe Inc. (ADBE) today announced its financial results for the Q4 2023, reporting revenue of $101.81 billion and net income of $28.04 billion. Earnings per share (EPS) were $6.69."
+    },
+    {
+      "ticker": "ADBE",
+      "title": "Adobe Inc. Posts Strong Q1 2023 Financials",
+      "url": "https://news.adbe.com/q12023-earnings",
+      "date": "2023-04-19",
+      "text": "Highlighting a solid performance in Q1 2023, Adobe Inc. (ADBE) recorded revenue of $103.89 billion, net income of $21.55 billion, and EPS of $11.24."
+    },
+    {
+      "ticker": "ADBE",
+      "title": "Adobe Inc. Posts Strong Q1 2023 Financials",
+      "url": "https://news.adbe.com/q12023-earnings",
+      "date": "2023-07-13",
+      "text": "Adobe Inc. (ADBE) announced Q1 2023 revenue totaling $67.82 billion, with earnings of $16.81 billion. The resulting EPS was $5.14."
+    },
+    {
+      "ticker": "ADBE",
+      "title": "Adobe Inc. Reports Better-Than-Expected Q2 2023 Earnings",
+      "url": "https://news.adbe.com/q22023-earnings",
+      "date": "2023-07-11",
+      "text": "With revenue of $125.21 billion and net income of $22.97 billion, Adobe Inc. (ADBE) reported a strong Q2 2023. EPS came in at $10.46."
+    },
+    {
+      "ticker": "ADBE",
+      "title": "Adobe Inc. Reports Q1 2023 Revenue of $88.23B",
+      "url": "https://news.adbe.com/q12023-earnings",
+      "date": "2023-08-02",
+      "text": "For the Q1 2023, Adobe Inc. (ADBE) revealed financials showing $88.23 billion in revenue and $19.53 billion in net profit. EPS was reported as $5.01."
+    },
+    {
+      "ticker": "ADBE",
+      "title": "Adobe Inc. Posts Strong Q4 2023 Financials",
+      "url": "https://news.adbe.com/q42023-earnings",
+      "date": "2023-06-17",
+      "text": "In the Q4 2023, Adobe Inc. (ADBE) posted revenues of $69.17 billion, with net income standing at $10.4 billion. EPS was $4.46."
+    },
+    {
+      "ticker": "ADBE",
+      "title": "Adobe Inc. Posts Strong Q1 2023 Financials",
+      "url": "https://news.adbe.com/q12023-earnings",
+      "date": "2023-01-12",
+      "text": "Adobe Inc. (ADBE) announced Q1 2023 revenue totaling $31.27 billion, with earnings of $8.22 billion. The resulting EPS was $3.58."
+    },
+    {
+      "ticker": "ADBE",
+      "title": "Adobe Inc. Releases Financial Results for Q4 2023",
+      "url": "https://news.adbe.com/q42023-earnings",
+      "date": "2023-10-26",
+      "text": "Adobe Inc. (ADBE) today announced its financial results for the Q4 2023, reporting revenue of $131.16 billion and net income of $16.99 billion. Earnings per share (EPS) were $10.07."
+    },
+    {
+      "ticker": "ADBE",
+      "title": "Adobe Inc. Delivers Earnings for Q2 2023",
+      "url": "https://news.adbe.com/q22023-earnings",
+      "date": "2023-08-31",
+      "text": "For the Q2 2023, Adobe Inc. (ADBE) revealed financials showing $19.26 billion in revenue and $3.94 billion in net profit. EPS was reported as $1.2."
+    },
+    {
+      "ticker": "ADBE",
+      "title": "Adobe Inc. Reports Q2 2023 Results",
+      "url": "https://news.adbe.com/q22023-earnings",
+      "date": "2023-04-26",
+      "text": "Adobe Inc. (ADBE) has published its Q2 2023 earnings, achieving a revenue of $44.23 billion, net income of $9.54 billion, and EPS of $8.16."
+    },
+    {
+      "ticker": "ADBE",
+      "title": "Adobe Inc. Reports Q4 2023 Results",
+      "url": "https://news.adbe.com/q42023-earnings",
+      "date": "2023-04-06",
+      "text": "For the Q4 2023, Adobe Inc. (ADBE) revealed financials showing $75.24 billion in revenue and $11.05 billion in net profit. EPS was reported as $4.62."
+    },
+    {
+      "ticker": "ADBE",
+      "title": "Adobe Inc. Reports Q3 2023 Results",
+      "url": "https://news.adbe.com/q32023-earnings",
+      "date": "2023-12-17",
+      "text": "Adobe Inc. (ADBE) has published its Q3 2023 earnings, achieving a revenue of $73.58 billion, net income of $20.64 billion, and EPS of $6.77."
+    },
+    {
+      "ticker": "ADBE",
+      "title": "Adobe Inc. Shares Q2 2023 Financial Highlights",
+      "url": "https://news.adbe.com/q22023-earnings",
+      "date": "2023-11-19",
+      "text": "With revenue of $134.87 billion and net income of $17.0 billion, Adobe Inc. (ADBE) reported a strong Q2 2023. EPS came in at $4.58."
+    },
+    {
+      "ticker": "ADBE",
+      "title": "Adobe Inc. Reports Q4 2023 Revenue of $107.93B",
+      "url": "https://news.adbe.com/q42023-earnings",
+      "date": "2023-12-24",
+      "text": "Adobe Inc. (ADBE) today announced its financial results for the Q4 2023, reporting revenue of $107.93 billion and net income of $17.63 billion. Earnings per share (EPS) were $9.73."
+    },
+    {
+      "ticker": "ADBE",
+      "title": "Adobe Inc. Reports Q1 2023 Results",
+      "url": "https://news.adbe.com/q12023-earnings",
+      "date": "2023-09-16",
+      "text": "Adobe Inc. (ADBE) has published its Q1 2023 earnings, achieving a revenue of $134.75 billion, net income of $39.57 billion, and EPS of $44.55."
+    },
+    {
+      "ticker": "CRM",
+      "title": "Salesforce, Inc. Releases Financial Results for Q3 2023",
+      "url": "https://news.crm.com/q32023-earnings",
+      "date": "2023-11-01",
+      "text": "For the Q3 2023, Salesforce, Inc. (CRM) revealed financials showing $144.9 billion in revenue and $32.56 billion in net profit. EPS was reported as $23.78."
+    },
+    {
+      "ticker": "CRM",
+      "title": "Salesforce, Inc. Posts Strong Q3 2023 Financials",
+      "url": "https://news.crm.com/q32023-earnings",
+      "date": "2023-03-26",
+      "text": "In the Q3 2023, Salesforce, Inc. (CRM) posted revenues of $94.95 billion, with net income standing at $18.23 billion. EPS was $5.74."
+    },
+    {
+      "ticker": "CRM",
+      "title": "Salesforce, Inc. Delivers Earnings for Q2 2023",
+      "url": "https://news.crm.com/q22023-earnings",
+      "date": "2023-03-30",
+      "text": "Salesforce, Inc. (CRM) has published its Q2 2023 earnings, achieving a revenue of $31.17 billion, net income of $8.3 billion, and EPS of $6.39."
+    },
+    {
+      "ticker": "CRM",
+      "title": "Salesforce, Inc. Delivers Earnings for Q1 2023",
+      "url": "https://news.crm.com/q12023-earnings",
+      "date": "2023-02-25",
+      "text": "Highlighting a solid performance in Q1 2023, Salesforce, Inc. (CRM) recorded revenue of $134.52 billion, net income of $16.7 billion, and EPS of $3.77."
+    },
+    {
+      "ticker": "CRM",
+      "title": "Salesforce, Inc. Shares Q1 2023 Financial Highlights",
+      "url": "https://news.crm.com/q12023-earnings",
+      "date": "2023-04-29",
+      "text": "Salesforce, Inc. (CRM) announced Q1 2023 revenue totaling $77.19 billion, with earnings of $9.5 billion. The resulting EPS was $2.24."
+    },
+    {
+      "ticker": "CRM",
+      "title": "Salesforce, Inc. Delivers Earnings for Q1 2023",
+      "url": "https://news.crm.com/q12023-earnings",
+      "date": "2023-02-24",
+      "text": "According to today's release, Salesforce, Inc. (CRM) achieved $71.89B revenue and $16.6B income for Q1 2023, resulting in an EPS of $7.15."
+    },
+    {
+      "ticker": "CRM",
+      "title": "Salesforce, Inc. Issues Q3 2023 Earnings Statement",
+      "url": "https://news.crm.com/q32023-earnings",
+      "date": "2023-01-26",
+      "text": "For the Q3 2023, Salesforce, Inc. (CRM) revealed financials showing $147.52 billion in revenue and $15.72 billion in net profit. EPS was reported as $4.12."
+    },
+    {
+      "ticker": "CRM",
+      "title": "Salesforce, Inc. Reports Q4 2023 Results",
+      "url": "https://news.crm.com/q42023-earnings",
+      "date": "2023-07-22",
+      "text": "Salesforce, Inc. (CRM) announced Q4 2023 revenue totaling $144.25 billion, with earnings of $18.16 billion. The resulting EPS was $14.1."
+    },
+    {
+      "ticker": "CRM",
+      "title": "Salesforce, Inc. Unveils Q3 2023 Revenue and Profit Numbers",
+      "url": "https://news.crm.com/q32023-earnings",
+      "date": "2023-08-06",
+      "text": "During Q3 2023, Salesforce, Inc. (CRM) achieved revenue of $40.24 billion and net income of $9.52 billion, translating to earnings per share of $3.09."
+    },
+    {
+      "ticker": "CRM",
+      "title": "Salesforce, Inc. Reports Q2 2023 Revenue of $51.3B",
+      "url": "https://news.crm.com/q22023-earnings",
+      "date": "2023-05-28",
+      "text": "Salesforce, Inc. (CRM) announced Q2 2023 revenue totaling $51.3 billion, with earnings of $14.14 billion. The resulting EPS was $21.2."
+    },
+    {
+      "ticker": "CRM",
+      "title": "Salesforce, Inc. Shares Q4 2023 Financial Highlights",
+      "url": "https://news.crm.com/q42023-earnings",
+      "date": "2023-09-15",
+      "text": "Highlighting a solid performance in Q4 2023, Salesforce, Inc. (CRM) recorded revenue of $59.1 billion, net income of $17.42 billion, and EPS of $14.6."
+    },
+    {
+      "ticker": "CRM",
+      "title": "Salesforce, Inc. Releases Financial Results for Q3 2023",
+      "url": "https://news.crm.com/q32023-earnings",
+      "date": "2023-08-20",
+      "text": "During Q3 2023, Salesforce, Inc. (CRM) achieved revenue of $49.07 billion and net income of $6.2 billion, translating to earnings per share of $1.6."
+    },
+    {
+      "ticker": "CRM",
+      "title": "Salesforce, Inc. Shares Q3 2023 Financial Highlights",
+      "url": "https://news.crm.com/q32023-earnings",
+      "date": "2023-05-30",
+      "text": "Salesforce, Inc. (CRM) reported its Q3 2023 earnings today, generating $96.06 billion in revenue and $11.13 billion in profit. EPS stood at $5.32."
+    },
+    {
+      "ticker": "CRM",
+      "title": "Salesforce, Inc. Posts Strong Q2 2023 Financials",
+      "url": "https://news.crm.com/q22023-earnings",
+      "date": "2023-05-25",
+      "text": "Highlighting a solid performance in Q2 2023, Salesforce, Inc. (CRM) recorded revenue of $131.3 billion, net income of $36.63 billion, and EPS of $36.09."
+    },
+    {
+      "ticker": "CRM",
+      "title": "Salesforce, Inc. Delivers Earnings for Q2 2023",
+      "url": "https://news.crm.com/q22023-earnings",
+      "date": "2023-09-16",
+      "text": "According to today's release, Salesforce, Inc. (CRM) achieved $109.95B revenue and $25.41B income for Q2 2023, resulting in an EPS of $6.57."
+    },
+    {
+      "ticker": "CRM",
+      "title": "Salesforce, Inc. Shares Q3 2023 Financial Highlights",
+      "url": "https://news.crm.com/q32023-earnings",
+      "date": "2023-05-15",
+      "text": "Salesforce, Inc. (CRM) announced Q3 2023 revenue totaling $63.02 billion, with earnings of $18.89 billion. The resulting EPS was $4.05."
+    },
+    {
+      "ticker": "CRM",
+      "title": "Salesforce, Inc. Shares Q1 2023 Financial Highlights",
+      "url": "https://news.crm.com/q12023-earnings",
+      "date": "2023-02-12",
+      "text": "In the Q1 2023, Salesforce, Inc. (CRM) posted revenues of $54.3 billion, with net income standing at $12.01 billion. EPS was $10.78."
+    },
+    {
+      "ticker": "CRM",
+      "title": "Salesforce, Inc. Reports Better-Than-Expected Q1 2023 Earnings",
+      "url": "https://news.crm.com/q12023-earnings",
+      "date": "2023-06-17",
+      "text": "According to today's release, Salesforce, Inc. (CRM) achieved $118.8B revenue and $12.36B income for Q1 2023, resulting in an EPS of $3.42."
+    },
+    {
+      "ticker": "CRM",
+      "title": "Salesforce, Inc. Reports Better-Than-Expected Q4 2023 Earnings",
+      "url": "https://news.crm.com/q42023-earnings",
+      "date": "2023-11-06",
+      "text": "With revenue of $109.66 billion and net income of $25.41 billion, Salesforce, Inc. (CRM) reported a strong Q4 2023. EPS came in at $5.87."
+    },
+    {
+      "ticker": "CRM",
+      "title": "Salesforce, Inc. Reports Better-Than-Expected Q2 2023 Earnings",
+      "url": "https://news.crm.com/q22023-earnings",
+      "date": "2023-07-11",
+      "text": "Salesforce, Inc. (CRM) announced Q2 2023 revenue totaling $135.35 billion, with earnings of $35.32 billion. The resulting EPS was $41.66."
+    },
+    {
+      "ticker": "CSCO",
+      "title": "Cisco Systems, Inc. Reports Q2 2023 Results",
+      "url": "https://news.csco.com/q22023-earnings",
+      "date": "2023-12-07",
+      "text": "Cisco Systems, Inc. (CSCO) today announced its financial results for the Q2 2023, reporting revenue of $63.16 billion and net income of $14.44 billion. Earnings per share (EPS) were $3.84."
+    },
+    {
+      "ticker": "CSCO",
+      "title": "Cisco Systems, Inc. Reports Q2 2023 Revenue of $47.96B",
+      "url": "https://news.csco.com/q22023-earnings",
+      "date": "2023-02-28",
+      "text": "For the Q2 2023, Cisco Systems, Inc. (CSCO) revealed financials showing $47.96 billion in revenue and $5.72 billion in net profit. EPS was reported as $1.67."
+    },
+    {
+      "ticker": "CSCO",
+      "title": "Cisco Systems, Inc. Delivers Earnings for Q3 2023",
+      "url": "https://news.csco.com/q32023-earnings",
+      "date": "2023-06-19",
+      "text": "With revenue of $127.55 billion and net income of $13.53 billion, Cisco Systems, Inc. (CSCO) reported a strong Q3 2023. EPS came in at $9.6."
+    },
+    {
+      "ticker": "CSCO",
+      "title": "Cisco Systems, Inc. Issues Q2 2023 Earnings Statement",
+      "url": "https://news.csco.com/q22023-earnings",
+      "date": "2023-06-22",
+      "text": "For the Q2 2023, Cisco Systems, Inc. (CSCO) revealed financials showing $83.61 billion in revenue and $24.37 billion in net profit. EPS was reported as $24.0."
+    },
+    {
+      "ticker": "CSCO",
+      "title": "Cisco Systems, Inc. Announces Q3 2023 Earnings",
+      "url": "https://news.csco.com/q32023-earnings",
+      "date": "2023-07-31",
+      "text": "Cisco Systems, Inc. (CSCO) today announced its financial results for the Q3 2023, reporting revenue of $105.67 billion and net income of $25.38 billion. Earnings per share (EPS) were $30.47."
+    },
+    {
+      "ticker": "CSCO",
+      "title": "Cisco Systems, Inc. Shares Q3 2023 Financial Highlights",
+      "url": "https://news.csco.com/q32023-earnings",
+      "date": "2023-06-08",
+      "text": "Cisco Systems, Inc. (CSCO) announced Q3 2023 revenue totaling $82.93 billion, with earnings of $16.32 billion. The resulting EPS was $12.05."
+    },
+    {
+      "ticker": "CSCO",
+      "title": "Cisco Systems, Inc. Shares Q3 2023 Financial Highlights",
+      "url": "https://news.csco.com/q32023-earnings",
+      "date": "2023-08-27",
+      "text": "For the Q3 2023, Cisco Systems, Inc. (CSCO) revealed financials showing $32.91 billion in revenue and $8.32 billion in net profit. EPS was reported as $2.61."
+    },
+    {
+      "ticker": "CSCO",
+      "title": "Cisco Systems, Inc. Delivers Earnings for Q1 2023",
+      "url": "https://news.csco.com/q12023-earnings",
+      "date": "2023-08-04",
+      "text": "Cisco Systems, Inc. (CSCO) has published its Q1 2023 earnings, achieving a revenue of $42.85 billion, net income of $9.88 billion, and EPS of $3.24."
+    },
+    {
+      "ticker": "CSCO",
+      "title": "Cisco Systems, Inc. Reports Q2 2023 Results",
+      "url": "https://news.csco.com/q22023-earnings",
+      "date": "2023-04-11",
+      "text": "Cisco Systems, Inc. (CSCO) today announced its financial results for the Q2 2023, reporting revenue of $145.78 billion and net income of $15.33 billion. Earnings per share (EPS) were $3.21."
+    },
+    {
+      "ticker": "CSCO",
+      "title": "Cisco Systems, Inc. Reports Q1 2023 Revenue of $144.6B",
+      "url": "https://news.csco.com/q12023-earnings",
+      "date": "2023-06-07",
+      "text": "In the Q1 2023, Cisco Systems, Inc. (CSCO) posted revenues of $144.6 billion, with net income standing at $26.36 billion. EPS was $14.62."
+    },
+    {
+      "ticker": "CSCO",
+      "title": "Cisco Systems, Inc. Reports Q1 2023 Revenue of $24.37B",
+      "url": "https://news.csco.com/q12023-earnings",
+      "date": "2023-05-27",
+      "text": "With revenue of $24.37 billion and net income of $5.11 billion, Cisco Systems, Inc. (CSCO) reported a strong Q1 2023. EPS came in at $2.35."
+    },
+    {
+      "ticker": "CSCO",
+      "title": "Cisco Systems, Inc. Releases Financial Results for Q1 2023",
+      "url": "https://news.csco.com/q12023-earnings",
+      "date": "2023-04-07",
+      "text": "According to today's release, Cisco Systems, Inc. (CSCO) achieved $79.18B revenue and $9.89B income for Q1 2023, resulting in an EPS of $4.7."
+    },
+    {
+      "ticker": "CSCO",
+      "title": "Cisco Systems, Inc. Announces Q3 2023 Earnings",
+      "url": "https://news.csco.com/q32023-earnings",
+      "date": "2023-02-07",
+      "text": "Highlighting a solid performance in Q3 2023, Cisco Systems, Inc. (CSCO) recorded revenue of $120.3 billion, net income of $17.72 billion, and EPS of $11.85."
+    },
+    {
+      "ticker": "CSCO",
+      "title": "Cisco Systems, Inc. Announces Q1 2023 Earnings",
+      "url": "https://news.csco.com/q12023-earnings",
+      "date": "2023-10-17",
+      "text": "Cisco Systems, Inc. (CSCO) today announced its financial results for the Q1 2023, reporting revenue of $93.95 billion and net income of $13.39 billion. Earnings per share (EPS) were $21.41."
+    },
+    {
+      "ticker": "CSCO",
+      "title": "Cisco Systems, Inc. Issues Q1 2023 Earnings Statement",
+      "url": "https://news.csco.com/q12023-earnings",
+      "date": "2023-08-23",
+      "text": "Cisco Systems, Inc. (CSCO) today announced its financial results for the Q1 2023, reporting revenue of $11.85 billion and net income of $3.5 billion. Earnings per share (EPS) were $0.8."
+    },
+    {
+      "ticker": "CSCO",
+      "title": "Cisco Systems, Inc. Reports Better-Than-Expected Q1 2023 Earnings",
+      "url": "https://news.csco.com/q12023-earnings",
+      "date": "2023-09-15",
+      "text": "According to today's release, Cisco Systems, Inc. (CSCO) achieved $118.7B revenue and $32.13B income for Q1 2023, resulting in an EPS of $8.42."
+    },
+    {
+      "ticker": "CSCO",
+      "title": "Cisco Systems, Inc. Reports Q1 2023 Results",
+      "url": "https://news.csco.com/q12023-earnings",
+      "date": "2023-06-24",
+      "text": "With revenue of $50.37 billion and net income of $10.73 billion, Cisco Systems, Inc. (CSCO) reported a strong Q1 2023. EPS came in at $3.15."
+    },
+    {
+      "ticker": "CSCO",
+      "title": "Cisco Systems, Inc. Posts Strong Q1 2023 Financials",
+      "url": "https://news.csco.com/q12023-earnings",
+      "date": "2023-12-26",
+      "text": "Cisco Systems, Inc. (CSCO) has published its Q1 2023 earnings, achieving a revenue of $84.88 billion, net income of $14.01 billion, and EPS of $5.6."
+    },
+    {
+      "ticker": "CSCO",
+      "title": "Cisco Systems, Inc. Shares Q4 2023 Financial Highlights",
+      "url": "https://news.csco.com/q42023-earnings",
+      "date": "2023-11-05",
+      "text": "During Q4 2023, Cisco Systems, Inc. (CSCO) achieved revenue of $116.76 billion and net income of $27.9 billion, translating to earnings per share of $6.35."
+    },
+    {
+      "ticker": "CSCO",
+      "title": "Cisco Systems, Inc. Reports Q1 2023 Results",
+      "url": "https://news.csco.com/q12023-earnings",
+      "date": "2023-06-18",
+      "text": "With revenue of $53.85 billion and net income of $11.87 billion, Cisco Systems, Inc. (CSCO) reported a strong Q1 2023. EPS came in at $11.73."
+    },
+    {
+      "ticker": "UBER",
+      "title": "Uber Technologies, Inc. Shares Q2 2023 Financial Highlights",
+      "url": "https://news.uber.com/q22023-earnings",
+      "date": "2023-11-19",
+      "text": "With revenue of $95.93 billion and net income of $16.38 billion, Uber Technologies, Inc. (UBER) reported a strong Q2 2023. EPS came in at $4.99."
+    },
+    {
+      "ticker": "UBER",
+      "title": "Uber Technologies, Inc. Posts Strong Q4 2023 Financials",
+      "url": "https://news.uber.com/q42023-earnings",
+      "date": "2023-06-13",
+      "text": "With revenue of $123.34 billion and net income of $36.14 billion, Uber Technologies, Inc. (UBER) reported a strong Q4 2023. EPS came in at $20.62."
+    },
+    {
+      "ticker": "UBER",
+      "title": "Uber Technologies, Inc. Delivers Earnings for Q1 2023",
+      "url": "https://news.uber.com/q12023-earnings",
+      "date": "2023-12-24",
+      "text": "Uber Technologies, Inc. (UBER) reported its Q1 2023 earnings today, generating $93.0 billion in revenue and $15.52 billion in profit. EPS stood at $3.61."
+    },
+    {
+      "ticker": "UBER",
+      "title": "Uber Technologies, Inc. Releases Financial Results for Q2 2023",
+      "url": "https://news.uber.com/q22023-earnings",
+      "date": "2023-09-10",
+      "text": "For the Q2 2023, Uber Technologies, Inc. (UBER) revealed financials showing $67.17 billion in revenue and $13.32 billion in net profit. EPS was reported as $4.08."
+    },
+    {
+      "ticker": "UBER",
+      "title": "Uber Technologies, Inc. Unveils Q3 2023 Revenue and Profit Numbers",
+      "url": "https://news.uber.com/q32023-earnings",
+      "date": "2023-09-15",
+      "text": "Highlighting a solid performance in Q3 2023, Uber Technologies, Inc. (UBER) recorded revenue of $40.83 billion, net income of $5.8 billion, and EPS of $3.75."
+    },
+    {
+      "ticker": "UBER",
+      "title": "Uber Technologies, Inc. Posts Strong Q2 2023 Financials",
+      "url": "https://news.uber.com/q22023-earnings",
+      "date": "2023-04-22",
+      "text": "With revenue of $62.78 billion and net income of $6.9 billion, Uber Technologies, Inc. (UBER) reported a strong Q2 2023. EPS came in at $1.57."
+    },
+    {
+      "ticker": "UBER",
+      "title": "Uber Technologies, Inc. Releases Financial Results for Q3 2023",
+      "url": "https://news.uber.com/q32023-earnings",
+      "date": "2023-08-17",
+      "text": "Uber Technologies, Inc. (UBER) has published its Q3 2023 earnings, achieving a revenue of $136.17 billion, net income of $18.86 billion, and EPS of $8.65."
+    },
+    {
+      "ticker": "UBER",
+      "title": "Uber Technologies, Inc. Unveils Q1 2023 Revenue and Profit Numbers",
+      "url": "https://news.uber.com/q12023-earnings",
+      "date": "2023-03-01",
+      "text": "During Q1 2023, Uber Technologies, Inc. (UBER) achieved revenue of $82.62 billion and net income of $14.47 billion, translating to earnings per share of $5.74."
+    },
+    {
+      "ticker": "UBER",
+      "title": "Uber Technologies, Inc. Reports Better-Than-Expected Q4 2023 Earnings",
+      "url": "https://news.uber.com/q42023-earnings",
+      "date": "2023-09-10",
+      "text": "Uber Technologies, Inc. (UBER) today announced its financial results for the Q4 2023, reporting revenue of $54.64 billion and net income of $11.97 billion. Earnings per share (EPS) were $22.85."
+    },
+    {
+      "ticker": "UBER",
+      "title": "Uber Technologies, Inc. Announces Q2 2023 Earnings",
+      "url": "https://news.uber.com/q22023-earnings",
+      "date": "2023-08-05",
+      "text": "Highlighting a solid performance in Q2 2023, Uber Technologies, Inc. (UBER) recorded revenue of $25.19 billion, net income of $6.0 billion, and EPS of $1.29."
+    },
+    {
+      "ticker": "UBER",
+      "title": "Uber Technologies, Inc. Unveils Q1 2023 Revenue and Profit Numbers",
+      "url": "https://news.uber.com/q12023-earnings",
+      "date": "2023-11-15",
+      "text": "In the Q1 2023, Uber Technologies, Inc. (UBER) posted revenues of $101.01 billion, with net income standing at $11.19 billion. EPS was $2.69."
+    },
+    {
+      "ticker": "UBER",
+      "title": "Uber Technologies, Inc. Reports Q2 2023 Results",
+      "url": "https://news.uber.com/q22023-earnings",
+      "date": "2023-06-03",
+      "text": "Uber Technologies, Inc. (UBER) today announced its financial results for the Q2 2023, reporting revenue of $103.05 billion and net income of $15.69 billion. Earnings per share (EPS) were $7.0."
+    },
+    {
+      "ticker": "UBER",
+      "title": "Uber Technologies, Inc. Reports Q4 2023 Revenue of $113.58B",
+      "url": "https://news.uber.com/q42023-earnings",
+      "date": "2023-07-14",
+      "text": "With revenue of $113.58 billion and net income of $16.52 billion, Uber Technologies, Inc. (UBER) reported a strong Q4 2023. EPS came in at $3.63."
+    },
+    {
+      "ticker": "UBER",
+      "title": "Uber Technologies, Inc. Unveils Q2 2023 Revenue and Profit Numbers",
+      "url": "https://news.uber.com/q22023-earnings",
+      "date": "2023-05-22",
+      "text": "Highlighting a solid performance in Q2 2023, Uber Technologies, Inc. (UBER) recorded revenue of $55.68 billion, net income of $15.2 billion, and EPS of $12.2."
+    },
+    {
+      "ticker": "UBER",
+      "title": "Uber Technologies, Inc. Releases Financial Results for Q2 2023",
+      "url": "https://news.uber.com/q22023-earnings",
+      "date": "2023-11-27",
+      "text": "Uber Technologies, Inc. (UBER) has published its Q2 2023 earnings, achieving a revenue of $111.01 billion, net income of $33.21 billion, and EPS of $34.56."
+    },
+    {
+      "ticker": "UBER",
+      "title": "Uber Technologies, Inc. Reports Q2 2023 Revenue of $44.41B",
+      "url": "https://news.uber.com/q22023-earnings",
+      "date": "2023-03-10",
+      "text": "According to today's release, Uber Technologies, Inc. (UBER) achieved $44.41B revenue and $4.85B income for Q2 2023, resulting in an EPS of $1.84."
+    },
+    {
+      "ticker": "UBER",
+      "title": "Uber Technologies, Inc. Reports Q4 2023 Results",
+      "url": "https://news.uber.com/q42023-earnings",
+      "date": "2023-12-21",
+      "text": "Uber Technologies, Inc. (UBER) has published its Q4 2023 earnings, achieving a revenue of $144.38 billion, net income of $30.41 billion, and EPS of $40.89."
+    },
+    {
+      "ticker": "UBER",
+      "title": "Uber Technologies, Inc. Reports Q2 2023 Revenue of $21.48B",
+      "url": "https://news.uber.com/q22023-earnings",
+      "date": "2023-10-18",
+      "text": "Uber Technologies, Inc. (UBER) today announced its financial results for the Q2 2023, reporting revenue of $21.48 billion and net income of $6.01 billion. Earnings per share (EPS) were $9.03."
+    },
+    {
+      "ticker": "UBER",
+      "title": "Uber Technologies, Inc. Delivers Earnings for Q4 2023",
+      "url": "https://news.uber.com/q42023-earnings",
+      "date": "2023-08-25",
+      "text": "According to today's release, Uber Technologies, Inc. (UBER) achieved $20.51B revenue and $2.23B income for Q4 2023, resulting in an EPS of $0.55."
+    },
+    {
+      "ticker": "UBER",
+      "title": "Uber Technologies, Inc. Reports Q1 2023 Results",
+      "url": "https://news.uber.com/q12023-earnings",
+      "date": "2023-08-19",
+      "text": "For the Q1 2023, Uber Technologies, Inc. (UBER) revealed financials showing $141.64 billion in revenue and $34.08 billion in net profit. EPS was reported as $13.13."
+    },
+    {
+      "ticker": "LYFT",
+      "title": "Lyft, Inc. Reports Q3 2023 Revenue of $114.07B",
+      "url": "https://news.lyft.com/q32023-earnings",
+      "date": "2023-05-12",
+      "text": "Highlighting a solid performance in Q3 2023, Lyft, Inc. (LYFT) recorded revenue of $114.07 billion, net income of $23.4 billion, and EPS of $17.71."
+    },
+    {
+      "ticker": "LYFT",
+      "title": "Lyft, Inc. Reports Q3 2023 Results",
+      "url": "https://news.lyft.com/q32023-earnings",
+      "date": "2023-11-18",
+      "text": "Highlighting a solid performance in Q3 2023, Lyft, Inc. (LYFT) recorded revenue of $149.83 billion, net income of $23.77 billion, and EPS of $10.96."
+    },
+    {
+      "ticker": "LYFT",
+      "title": "Lyft, Inc. Announces Q4 2023 Earnings",
+      "url": "https://news.lyft.com/q42023-earnings",
+      "date": "2023-01-06",
+      "text": "Lyft, Inc. (LYFT) today announced its financial results for the Q4 2023, reporting revenue of $50.47 billion and net income of $11.48 billion. Earnings per share (EPS) were $7.7."
+    },
+    {
+      "ticker": "LYFT",
+      "title": "Lyft, Inc. Reports Better-Than-Expected Q2 2023 Earnings",
+      "url": "https://news.lyft.com/q22023-earnings",
+      "date": "2023-06-04",
+      "text": "During Q2 2023, Lyft, Inc. (LYFT) achieved revenue of $61.61 billion and net income of $18.24 billion, translating to earnings per share of $21.49."
+    },
+    {
+      "ticker": "LYFT",
+      "title": "Lyft, Inc. Announces Q1 2023 Earnings",
+      "url": "https://news.lyft.com/q12023-earnings",
+      "date": "2023-11-02",
+      "text": "In the Q1 2023, Lyft, Inc. (LYFT) posted revenues of $136.55 billion, with net income standing at $18.41 billion. EPS was $32.89."
+    },
+    {
+      "ticker": "LYFT",
+      "title": "Lyft, Inc. Issues Q4 2023 Earnings Statement",
+      "url": "https://news.lyft.com/q42023-earnings",
+      "date": "2023-04-02",
+      "text": "Lyft, Inc. (LYFT) reported its Q4 2023 earnings today, generating $45.14 billion in revenue and $5.41 billion in profit. EPS stood at $1.48."
+    },
+    {
+      "ticker": "LYFT",
+      "title": "Lyft, Inc. Announces Q2 2023 Earnings",
+      "url": "https://news.lyft.com/q22023-earnings",
+      "date": "2023-11-21",
+      "text": "In the Q2 2023, Lyft, Inc. (LYFT) posted revenues of $28.17 billion, with net income standing at $4.65 billion. EPS was $1.97."
+    },
+    {
+      "ticker": "LYFT",
+      "title": "Lyft, Inc. Reports Better-Than-Expected Q2 2023 Earnings",
+      "url": "https://news.lyft.com/q22023-earnings",
+      "date": "2023-04-16",
+      "text": "For the Q2 2023, Lyft, Inc. (LYFT) revealed financials showing $129.47 billion in revenue and $14.5 billion in net profit. EPS was reported as $3.08."
+    },
+    {
+      "ticker": "LYFT",
+      "title": "Lyft, Inc. Reports Q4 2023 Revenue of $114.59B",
+      "url": "https://news.lyft.com/q42023-earnings",
+      "date": "2023-01-28",
+      "text": "Highlighting a solid performance in Q4 2023, Lyft, Inc. (LYFT) recorded revenue of $114.59 billion, net income of $13.86 billion, and EPS of $6.96."
+    },
+    {
+      "ticker": "LYFT",
+      "title": "Lyft, Inc. Releases Financial Results for Q1 2023",
+      "url": "https://news.lyft.com/q12023-earnings",
+      "date": "2023-11-04",
+      "text": "With revenue of $12.31 billion and net income of $1.69 billion, Lyft, Inc. (LYFT) reported a strong Q1 2023. EPS came in at $1.36."
+    },
+    {
+      "ticker": "LYFT",
+      "title": "Lyft, Inc. Unveils Q4 2023 Revenue and Profit Numbers",
+      "url": "https://news.lyft.com/q42023-earnings",
+      "date": "2023-03-02",
+      "text": "Lyft, Inc. (LYFT) announced Q4 2023 revenue totaling $104.57 billion, with earnings of $18.72 billion. The resulting EPS was $4.9."
+    },
+    {
+      "ticker": "LYFT",
+      "title": "Lyft, Inc. Reports Better-Than-Expected Q2 2023 Earnings",
+      "url": "https://news.lyft.com/q22023-earnings",
+      "date": "2023-01-30",
+      "text": "During Q2 2023, Lyft, Inc. (LYFT) achieved revenue of $48.1 billion and net income of $7.29 billion, translating to earnings per share of $3.36."
+    },
+    {
+      "ticker": "LYFT",
+      "title": "Lyft, Inc. Issues Q1 2023 Earnings Statement",
+      "url": "https://news.lyft.com/q12023-earnings",
+      "date": "2023-09-24",
+      "text": "Lyft, Inc. (LYFT) today announced its financial results for the Q1 2023, reporting revenue of $119.94 billion and net income of $28.05 billion. Earnings per share (EPS) were $24.36."
+    },
+    {
+      "ticker": "LYFT",
+      "title": "Lyft, Inc. Delivers Earnings for Q3 2023",
+      "url": "https://news.lyft.com/q32023-earnings",
+      "date": "2023-10-06",
+      "text": "Lyft, Inc. (LYFT) reported its Q3 2023 earnings today, generating $39.43 billion in revenue and $11.31 billion in profit. EPS stood at $3.86."
+    },
+    {
+      "ticker": "LYFT",
+      "title": "Lyft, Inc. Unveils Q3 2023 Revenue and Profit Numbers",
+      "url": "https://news.lyft.com/q32023-earnings",
+      "date": "2023-10-19",
+      "text": "Lyft, Inc. (LYFT) reported its Q3 2023 earnings today, generating $142.54 billion in revenue and $34.04 billion in profit. EPS stood at $10.3."
+    },
+    {
+      "ticker": "LYFT",
+      "title": "Lyft, Inc. Announces Q4 2023 Earnings",
+      "url": "https://news.lyft.com/q42023-earnings",
+      "date": "2023-12-12",
+      "text": "Highlighting a solid performance in Q4 2023, Lyft, Inc. (LYFT) recorded revenue of $89.19 billion, net income of $11.62 billion, and EPS of $7.67."
+    },
+    {
+      "ticker": "LYFT",
+      "title": "Lyft, Inc. Reports Better-Than-Expected Q4 2023 Earnings",
+      "url": "https://news.lyft.com/q42023-earnings",
+      "date": "2023-12-09",
+      "text": "Lyft, Inc. (LYFT) reported its Q4 2023 earnings today, generating $122.21 billion in revenue and $20.36 billion in profit. EPS stood at $6.79."
+    },
+    {
+      "ticker": "LYFT",
+      "title": "Lyft, Inc. Releases Financial Results for Q1 2023",
+      "url": "https://news.lyft.com/q12023-earnings",
+      "date": "2023-07-20",
+      "text": "Lyft, Inc. (LYFT) reported its Q1 2023 earnings today, generating $75.94 billion in revenue and $14.25 billion in profit. EPS stood at $3.19."
+    },
+    {
+      "ticker": "LYFT",
+      "title": "Lyft, Inc. Reports Q2 2023 Results",
+      "url": "https://news.lyft.com/q22023-earnings",
+      "date": "2023-06-07",
+      "text": "For the Q2 2023, Lyft, Inc. (LYFT) revealed financials showing $98.46 billion in revenue and $14.24 billion in net profit. EPS was reported as $5.01."
+    },
+    {
+      "ticker": "LYFT",
+      "title": "Lyft, Inc. Unveils Q2 2023 Revenue and Profit Numbers",
+      "url": "https://news.lyft.com/q22023-earnings",
+      "date": "2023-03-08",
+      "text": "For the Q2 2023, Lyft, Inc. (LYFT) revealed financials showing $104.96 billion in revenue and $28.35 billion in net profit. EPS was reported as $45.47."
+    },
+    {
+      "ticker": "PYPL",
+      "title": "PayPal Holdings, Inc. Reports Q1 2023 Results",
+      "url": "https://news.pypl.com/q12023-earnings",
+      "date": "2023-07-14",
+      "text": "PayPal Holdings, Inc. (PYPL) today announced its financial results for the Q1 2023, reporting revenue of $69.09 billion and net income of $12.78 billion. Earnings per share (EPS) were $2.58."
+    },
+    {
+      "ticker": "PYPL",
+      "title": "PayPal Holdings, Inc. Announces Q1 2023 Earnings",
+      "url": "https://news.pypl.com/q12023-earnings",
+      "date": "2023-05-23",
+      "text": "In the Q1 2023, PayPal Holdings, Inc. (PYPL) posted revenues of $65.24 billion, with net income standing at $10.89 billion. EPS was $15.3."
+    },
+    {
+      "ticker": "PYPL",
+      "title": "PayPal Holdings, Inc. Issues Q2 2023 Earnings Statement",
+      "url": "https://news.pypl.com/q22023-earnings",
+      "date": "2023-07-12",
+      "text": "PayPal Holdings, Inc. (PYPL) today announced its financial results for the Q2 2023, reporting revenue of $148.51 billion and net income of $43.46 billion. Earnings per share (EPS) were $12.75."
+    },
+    {
+      "ticker": "PYPL",
+      "title": "PayPal Holdings, Inc. Reports Q4 2023 Revenue of $29.32B",
+      "url": "https://news.pypl.com/q42023-earnings",
+      "date": "2023-04-27",
+      "text": "According to today's release, PayPal Holdings, Inc. (PYPL) achieved $29.32B revenue and $5.18B income for Q4 2023, resulting in an EPS of $1.81."
+    },
+    {
+      "ticker": "PYPL",
+      "title": "PayPal Holdings, Inc. Reports Better-Than-Expected Q2 2023 Earnings",
+      "url": "https://news.pypl.com/q22023-earnings",
+      "date": "2023-09-18",
+      "text": "PayPal Holdings, Inc. (PYPL) today announced its financial results for the Q2 2023, reporting revenue of $85.53 billion and net income of $9.76 billion. Earnings per share (EPS) were $5.08."
+    },
+    {
+      "ticker": "PYPL",
+      "title": "PayPal Holdings, Inc. Delivers Earnings for Q3 2023",
+      "url": "https://news.pypl.com/q32023-earnings",
+      "date": "2023-01-10",
+      "text": "PayPal Holdings, Inc. (PYPL) today announced its financial results for the Q3 2023, reporting revenue of $42.4 billion and net income of $5.85 billion. Earnings per share (EPS) were $3.15."
+    },
+    {
+      "ticker": "PYPL",
+      "title": "PayPal Holdings, Inc. Delivers Earnings for Q1 2023",
+      "url": "https://news.pypl.com/q12023-earnings",
+      "date": "2023-10-17",
+      "text": "For the Q1 2023, PayPal Holdings, Inc. (PYPL) revealed financials showing $140.39 billion in revenue and $40.64 billion in net profit. EPS was reported as $12.93."
+    },
+    {
+      "ticker": "PYPL",
+      "title": "PayPal Holdings, Inc. Reports Q3 2023 Results",
+      "url": "https://news.pypl.com/q32023-earnings",
+      "date": "2023-04-27",
+      "text": "With revenue of $40.58 billion and net income of $9.95 billion, PayPal Holdings, Inc. (PYPL) reported a strong Q3 2023. EPS came in at $2.58."
+    },
+    {
+      "ticker": "PYPL",
+      "title": "PayPal Holdings, Inc. Shares Q1 2023 Financial Highlights",
+      "url": "https://news.pypl.com/q12023-earnings",
+      "date": "2023-03-06",
+      "text": "During Q1 2023, PayPal Holdings, Inc. (PYPL) achieved revenue of $32.43 billion and net income of $5.6 billion, translating to earnings per share of $1.12."
+    },
+    {
+      "ticker": "PYPL",
+      "title": "PayPal Holdings, Inc. Reports Q1 2023 Revenue of $15.55B",
+      "url": "https://news.pypl.com/q12023-earnings",
+      "date": "2023-06-18",
+      "text": "For the Q1 2023, PayPal Holdings, Inc. (PYPL) revealed financials showing $15.55 billion in revenue and $1.85 billion in net profit. EPS was reported as $1.08."
+    },
+    {
+      "ticker": "PYPL",
+      "title": "PayPal Holdings, Inc. Shares Q3 2023 Financial Highlights",
+      "url": "https://news.pypl.com/q32023-earnings",
+      "date": "2023-02-20",
+      "text": "PayPal Holdings, Inc. (PYPL) has published its Q3 2023 earnings, achieving a revenue of $43.71 billion, net income of $11.9 billion, and EPS of $7.31."
+    },
+    {
+      "ticker": "PYPL",
+      "title": "PayPal Holdings, Inc. Reports Q3 2023 Results",
+      "url": "https://news.pypl.com/q32023-earnings",
+      "date": "2023-02-20",
+      "text": "For the Q3 2023, PayPal Holdings, Inc. (PYPL) revealed financials showing $93.91 billion in revenue and $17.47 billion in net profit. EPS was reported as $8.43."
+    },
+    {
+      "ticker": "PYPL",
+      "title": "PayPal Holdings, Inc. Reports Better-Than-Expected Q4 2023 Earnings",
+      "url": "https://news.pypl.com/q42023-earnings",
+      "date": "2023-07-16",
+      "text": "With revenue of $46.41 billion and net income of $12.59 billion, PayPal Holdings, Inc. (PYPL) reported a strong Q4 2023. EPS came in at $3.46."
+    },
+    {
+      "ticker": "PYPL",
+      "title": "PayPal Holdings, Inc. Issues Q1 2023 Earnings Statement",
+      "url": "https://news.pypl.com/q12023-earnings",
+      "date": "2023-01-22",
+      "text": "PayPal Holdings, Inc. (PYPL) has published its Q1 2023 earnings, achieving a revenue of $92.69 billion, net income of $24.14 billion, and EPS of $13.5."
+    },
+    {
+      "ticker": "PYPL",
+      "title": "PayPal Holdings, Inc. Delivers Earnings for Q3 2023",
+      "url": "https://news.pypl.com/q32023-earnings",
+      "date": "2023-04-15",
+      "text": "PayPal Holdings, Inc. (PYPL) has published its Q3 2023 earnings, achieving a revenue of $56.77 billion, net income of $14.72 billion, and EPS of $4.89."
+    },
+    {
+      "ticker": "PYPL",
+      "title": "PayPal Holdings, Inc. Delivers Earnings for Q1 2023",
+      "url": "https://news.pypl.com/q12023-earnings",
+      "date": "2023-02-26",
+      "text": "PayPal Holdings, Inc. (PYPL) today announced its financial results for the Q1 2023, reporting revenue of $134.99 billion and net income of $35.28 billion. Earnings per share (EPS) were $54.43."
+    },
+    {
+      "ticker": "PYPL",
+      "title": "PayPal Holdings, Inc. Releases Financial Results for Q2 2023",
+      "url": "https://news.pypl.com/q22023-earnings",
+      "date": "2023-11-07",
+      "text": "For the Q2 2023, PayPal Holdings, Inc. (PYPL) revealed financials showing $108.04 billion in revenue and $26.66 billion in net profit. EPS was reported as $6.82."
+    },
+    {
+      "ticker": "PYPL",
+      "title": "PayPal Holdings, Inc. Posts Strong Q3 2023 Financials",
+      "url": "https://news.pypl.com/q32023-earnings",
+      "date": "2023-01-10",
+      "text": "PayPal Holdings, Inc. (PYPL) today announced its financial results for the Q3 2023, reporting revenue of $114.46 billion and net income of $29.97 billion. Earnings per share (EPS) were $6.43."
+    },
+    {
+      "ticker": "PYPL",
+      "title": "PayPal Holdings, Inc. Shares Q2 2023 Financial Highlights",
+      "url": "https://news.pypl.com/q22023-earnings",
+      "date": "2023-03-25",
+      "text": "During Q2 2023, PayPal Holdings, Inc. (PYPL) achieved revenue of $59.93 billion and net income of $7.75 billion, translating to earnings per share of $4.86."
+    },
+    {
+      "ticker": "PYPL",
+      "title": "PayPal Holdings, Inc. Shares Q2 2023 Financial Highlights",
+      "url": "https://news.pypl.com/q22023-earnings",
+      "date": "2023-03-18",
+      "text": "For the Q2 2023, PayPal Holdings, Inc. (PYPL) revealed financials showing $106.1 billion in revenue and $15.64 billion in net profit. EPS was reported as $7.18."
+    },
+    {
+      "ticker": "SQ",
+      "title": "Block, Inc. Releases Financial Results for Q3 2023",
+      "url": "https://news.sq.com/q32023-earnings",
+      "date": "2023-09-24",
+      "text": "Block, Inc. (SQ) has published its Q3 2023 earnings, achieving a revenue of $52.14 billion, net income of $7.24 billion, and EPS of $2.61."
+    },
+    {
+      "ticker": "SQ",
+      "title": "Block, Inc. Posts Strong Q3 2023 Financials",
+      "url": "https://news.sq.com/q32023-earnings",
+      "date": "2023-11-26",
+      "text": "In the Q3 2023, Block, Inc. (SQ) posted revenues of $30.31 billion, with net income standing at $7.43 billion. EPS was $1.52."
+    },
+    {
+      "ticker": "SQ",
+      "title": "Block, Inc. Issues Q4 2023 Earnings Statement",
+      "url": "https://news.sq.com/q42023-earnings",
+      "date": "2023-06-04",
+      "text": "Block, Inc. (SQ) reported its Q4 2023 earnings today, generating $141.38 billion in revenue and $19.54 billion in profit. EPS stood at $5.12."
+    },
+    {
+      "ticker": "SQ",
+      "title": "Block, Inc. Announces Q1 2023 Earnings",
+      "url": "https://news.sq.com/q12023-earnings",
+      "date": "2023-01-24",
+      "text": "Block, Inc. (SQ) reported its Q1 2023 earnings today, generating $64.95 billion in revenue and $8.67 billion in profit. EPS stood at $3.99."
+    },
+    {
+      "ticker": "SQ",
+      "title": "Block, Inc. Reports Q1 2023 Revenue of $88.67B",
+      "url": "https://news.sq.com/q12023-earnings",
+      "date": "2023-03-25",
+      "text": "During Q1 2023, Block, Inc. (SQ) achieved revenue of $88.67 billion and net income of $23.36 billion, translating to earnings per share of $6.11."
+    },
+    {
+      "ticker": "SQ",
+      "title": "Block, Inc. Reports Better-Than-Expected Q4 2023 Earnings",
+      "url": "https://news.sq.com/q42023-earnings",
+      "date": "2023-04-24",
+      "text": "In the Q4 2023, Block, Inc. (SQ) posted revenues of $108.13 billion, with net income standing at $24.24 billion. EPS was $6.25."
+    },
+    {
+      "ticker": "SQ",
+      "title": "Block, Inc. Unveils Q3 2023 Revenue and Profit Numbers",
+      "url": "https://news.sq.com/q32023-earnings",
+      "date": "2023-12-06",
+      "text": "Block, Inc. (SQ) has published its Q3 2023 earnings, achieving a revenue of $69.86 billion, net income of $12.94 billion, and EPS of $22.54."
+    },
+    {
+      "ticker": "SQ",
+      "title": "Block, Inc. Shares Q1 2023 Financial Highlights",
+      "url": "https://news.sq.com/q12023-earnings",
+      "date": "2023-11-10",
+      "text": "In the Q1 2023, Block, Inc. (SQ) posted revenues of $79.45 billion, with net income standing at $22.09 billion. EPS was $14.34."
+    },
+    {
+      "ticker": "SQ",
+      "title": "Block, Inc. Releases Financial Results for Q4 2023",
+      "url": "https://news.sq.com/q42023-earnings",
+      "date": "2023-08-11",
+      "text": "Block, Inc. (SQ) today announced its financial results for the Q4 2023, reporting revenue of $99.2 billion and net income of $24.26 billion. Earnings per share (EPS) were $5.23."
+    },
+    {
+      "ticker": "SQ",
+      "title": "Block, Inc. Reports Q4 2023 Revenue of $44.88B",
+      "url": "https://news.sq.com/q42023-earnings",
+      "date": "2023-04-03",
+      "text": "Block, Inc. (SQ) today announced its financial results for the Q4 2023, reporting revenue of $44.88 billion and net income of $4.49 billion. Earnings per share (EPS) were $2.18."
+    },
+    {
+      "ticker": "SQ",
+      "title": "Block, Inc. Delivers Earnings for Q3 2023",
+      "url": "https://news.sq.com/q32023-earnings",
+      "date": "2023-11-06",
+      "text": "Block, Inc. (SQ) announced Q3 2023 revenue totaling $39.35 billion, with earnings of $6.97 billion. The resulting EPS was $7.95."
+    },
+    {
+      "ticker": "SQ",
+      "title": "Block, Inc. Reports Q2 2023 Results",
+      "url": "https://news.sq.com/q22023-earnings",
+      "date": "2023-03-28",
+      "text": "Block, Inc. (SQ) today announced its financial results for the Q2 2023, reporting revenue of $17.48 billion and net income of $2.05 billion. Earnings per share (EPS) were $1.74."
+    },
+    {
+      "ticker": "SQ",
+      "title": "Block, Inc. Reports Q4 2023 Revenue of $42.55B",
+      "url": "https://news.sq.com/q42023-earnings",
+      "date": "2023-05-11",
+      "text": "Highlighting a solid performance in Q4 2023, Block, Inc. (SQ) recorded revenue of $42.55 billion, net income of $8.58 billion, and EPS of $2.05."
+    },
+    {
+      "ticker": "SQ",
+      "title": "Block, Inc. Issues Q4 2023 Earnings Statement",
+      "url": "https://news.sq.com/q42023-earnings",
+      "date": "2023-03-01",
+      "text": "According to today's release, Block, Inc. (SQ) achieved $99.93B revenue and $17.83B income for Q4 2023, resulting in an EPS of $7.97."
+    },
+    {
+      "ticker": "SQ",
+      "title": "Block, Inc. Reports Q4 2023 Revenue of $97.68B",
+      "url": "https://news.sq.com/q42023-earnings",
+      "date": "2023-11-26",
+      "text": "Block, Inc. (SQ) has published its Q4 2023 earnings, achieving a revenue of $97.68 billion, net income of $16.8 billion, and EPS of $12.19."
+    },
+    {
+      "ticker": "SQ",
+      "title": "Block, Inc. Shares Q4 2023 Financial Highlights",
+      "url": "https://news.sq.com/q42023-earnings",
+      "date": "2023-07-16",
+      "text": "Block, Inc. (SQ) today announced its financial results for the Q4 2023, reporting revenue of $27.48 billion and net income of $7.2 billion. Earnings per share (EPS) were $4.03."
+    },
+    {
+      "ticker": "SQ",
+      "title": "Block, Inc. Posts Strong Q1 2023 Financials",
+      "url": "https://news.sq.com/q12023-earnings",
+      "date": "2023-11-03",
+      "text": "During Q1 2023, Block, Inc. (SQ) achieved revenue of $21.84 billion and net income of $6.1 billion, translating to earnings per share of $3.51."
+    },
+    {
+      "ticker": "SQ",
+      "title": "Block, Inc. Reports Q3 2023 Revenue of $38.76B",
+      "url": "https://news.sq.com/q32023-earnings",
+      "date": "2023-03-11",
+      "text": "In the Q3 2023, Block, Inc. (SQ) posted revenues of $38.76 billion, with net income standing at $5.17 billion. EPS was $1.21."
+    },
+    {
+      "ticker": "SQ",
+      "title": "Block, Inc. Announces Q2 2023 Earnings",
+      "url": "https://news.sq.com/q22023-earnings",
+      "date": "2023-01-16",
+      "text": "Block, Inc. (SQ) reported its Q2 2023 earnings today, generating $143.12 billion in revenue and $24.77 billion in profit. EPS stood at $7.4."
+    },
+    {
+      "ticker": "SQ",
+      "title": "Block, Inc. Reports Better-Than-Expected Q2 2023 Earnings",
+      "url": "https://news.sq.com/q22023-earnings",
+      "date": "2023-04-19",
+      "text": "Block, Inc. (SQ) announced Q2 2023 revenue totaling $149.99 billion, with earnings of $22.75 billion. The resulting EPS was $29.34."
+    },
+    {
+      "ticker": "SHOP",
+      "title": "Shopify Inc. Releases Financial Results for Q1 2023",
+      "url": "https://news.shop.com/q12023-earnings",
+      "date": "2023-07-11",
+      "text": "According to today's release, Shopify Inc. (SHOP) achieved $90.83B revenue and $22.24B income for Q1 2023, resulting in an EPS of $9.27."
+    },
+    {
+      "ticker": "SHOP",
+      "title": "Shopify Inc. Delivers Earnings for Q4 2023",
+      "url": "https://news.shop.com/q42023-earnings",
+      "date": "2023-12-17",
+      "text": "Shopify Inc. (SHOP) has published its Q4 2023 earnings, achieving a revenue of $60.81 billion, net income of $9.86 billion, and EPS of $4.81."
+    },
+    {
+      "ticker": "SHOP",
+      "title": "Shopify Inc. Delivers Earnings for Q2 2023",
+      "url": "https://news.shop.com/q22023-earnings",
+      "date": "2023-08-07",
+      "text": "Highlighting a solid performance in Q2 2023, Shopify Inc. (SHOP) recorded revenue of $110.51 billion, net income of $17.8 billion, and EPS of $5.31."
+    },
+    {
+      "ticker": "SHOP",
+      "title": "Shopify Inc. Reports Q4 2023 Results",
+      "url": "https://news.shop.com/q42023-earnings",
+      "date": "2023-05-17",
+      "text": "During Q4 2023, Shopify Inc. (SHOP) achieved revenue of $117.34 billion and net income of $34.35 billion, translating to earnings per share of $9.72."
+    },
+    {
+      "ticker": "SHOP",
+      "title": "Shopify Inc. Releases Financial Results for Q3 2023",
+      "url": "https://news.shop.com/q32023-earnings",
+      "date": "2023-10-10",
+      "text": "Highlighting a solid performance in Q3 2023, Shopify Inc. (SHOP) recorded revenue of $119.02 billion, net income of $23.31 billion, and EPS of $21.74."
+    },
+    {
+      "ticker": "SHOP",
+      "title": "Shopify Inc. Unveils Q1 2023 Revenue and Profit Numbers",
+      "url": "https://news.shop.com/q12023-earnings",
+      "date": "2023-12-28",
+      "text": "Shopify Inc. (SHOP) reported its Q1 2023 earnings today, generating $57.67 billion in revenue and $8.48 billion in profit. EPS stood at $3.76."
+    },
+    {
+      "ticker": "SHOP",
+      "title": "Shopify Inc. Releases Financial Results for Q2 2023",
+      "url": "https://news.shop.com/q22023-earnings",
+      "date": "2023-08-10",
+      "text": "Shopify Inc. (SHOP) today announced its financial results for the Q2 2023, reporting revenue of $90.34 billion and net income of $11.73 billion. Earnings per share (EPS) were $7.18."
+    },
+    {
+      "ticker": "SHOP",
+      "title": "Shopify Inc. Reports Q3 2023 Results",
+      "url": "https://news.shop.com/q32023-earnings",
+      "date": "2023-06-13",
+      "text": "Shopify Inc. (SHOP) has published its Q3 2023 earnings, achieving a revenue of $105.55 billion, net income of $13.09 billion, and EPS of $10.95."
+    },
+    {
+      "ticker": "SHOP",
+      "title": "Shopify Inc. Delivers Earnings for Q1 2023",
+      "url": "https://news.shop.com/q12023-earnings",
+      "date": "2023-11-25",
+      "text": "Highlighting a solid performance in Q1 2023, Shopify Inc. (SHOP) recorded revenue of $89.45 billion, net income of $22.31 billion, and EPS of $15.4."
+    },
+    {
+      "ticker": "SHOP",
+      "title": "Shopify Inc. Releases Financial Results for Q3 2023",
+      "url": "https://news.shop.com/q32023-earnings",
+      "date": "2023-12-15",
+      "text": "Shopify Inc. (SHOP) has published its Q3 2023 earnings, achieving a revenue of $75.9 billion, net income of $12.09 billion, and EPS of $2.89."
+    },
+    {
+      "ticker": "SHOP",
+      "title": "Shopify Inc. Shares Q3 2023 Financial Highlights",
+      "url": "https://news.shop.com/q32023-earnings",
+      "date": "2023-09-02",
+      "text": "Shopify Inc. (SHOP) reported its Q3 2023 earnings today, generating $78.54 billion in revenue and $22.21 billion in profit. EPS stood at $10.13."
+    },
+    {
+      "ticker": "SHOP",
+      "title": "Shopify Inc. Shares Q2 2023 Financial Highlights",
+      "url": "https://news.shop.com/q22023-earnings",
+      "date": "2023-12-30",
+      "text": "With revenue of $89.96 billion and net income of $26.46 billion, Shopify Inc. (SHOP) reported a strong Q2 2023. EPS came in at $5.99."
+    },
+    {
+      "ticker": "SHOP",
+      "title": "Shopify Inc. Posts Strong Q3 2023 Financials",
+      "url": "https://news.shop.com/q32023-earnings",
+      "date": "2023-10-24",
+      "text": "For the Q3 2023, Shopify Inc. (SHOP) revealed financials showing $69.04 billion in revenue and $7.62 billion in net profit. EPS was reported as $3.94."
+    },
+    {
+      "ticker": "SHOP",
+      "title": "Shopify Inc. Unveils Q2 2023 Revenue and Profit Numbers",
+      "url": "https://news.shop.com/q22023-earnings",
+      "date": "2023-05-28",
+      "text": "For the Q2 2023, Shopify Inc. (SHOP) revealed financials showing $64.93 billion in revenue and $6.87 billion in net profit. EPS was reported as $3.83."
+    },
+    {
+      "ticker": "SHOP",
+      "title": "Shopify Inc. Announces Q3 2023 Earnings",
+      "url": "https://news.shop.com/q32023-earnings",
+      "date": "2023-12-10",
+      "text": "During Q3 2023, Shopify Inc. (SHOP) achieved revenue of $105.17 billion and net income of $19.07 billion, translating to earnings per share of $5.94."
+    },
+    {
+      "ticker": "SHOP",
+      "title": "Shopify Inc. Reports Q3 2023 Revenue of $97.12B",
+      "url": "https://news.shop.com/q32023-earnings",
+      "date": "2023-09-22",
+      "text": "During Q3 2023, Shopify Inc. (SHOP) achieved revenue of $97.12 billion and net income of $28.54 billion, translating to earnings per share of $8.37."
+    },
+    {
+      "ticker": "SHOP",
+      "title": "Shopify Inc. Reports Q1 2023 Results",
+      "url": "https://news.shop.com/q12023-earnings",
+      "date": "2023-12-17",
+      "text": "In the Q1 2023, Shopify Inc. (SHOP) posted revenues of $43.08 billion, with net income standing at $6.12 billion. EPS was $2.39."
+    },
+    {
+      "ticker": "SHOP",
+      "title": "Shopify Inc. Posts Strong Q4 2023 Financials",
+      "url": "https://news.shop.com/q42023-earnings",
+      "date": "2023-04-28",
+      "text": "For the Q4 2023, Shopify Inc. (SHOP) revealed financials showing $142.03 billion in revenue and $31.06 billion in net profit. EPS was reported as $28.25."
+    },
+    {
+      "ticker": "SHOP",
+      "title": "Shopify Inc. Reports Q1 2023 Results",
+      "url": "https://news.shop.com/q12023-earnings",
+      "date": "2023-09-14",
+      "text": "Highlighting a solid performance in Q1 2023, Shopify Inc. (SHOP) recorded revenue of $18.35 billion, net income of $3.82 billion, and EPS of $4.69."
+    },
+    {
+      "ticker": "SHOP",
+      "title": "Shopify Inc. Issues Q1 2023 Earnings Statement",
+      "url": "https://news.shop.com/q12023-earnings",
+      "date": "2023-05-30",
+      "text": "Shopify Inc. (SHOP) today announced its financial results for the Q1 2023, reporting revenue of $81.46 billion and net income of $21.81 billion. Earnings per share (EPS) were $4.7."
+    },
+    {
+      "ticker": "ZM",
+      "title": "Zoom Video Communications, Inc. Reports Q3 2023 Revenue of $84.14B",
+      "url": "https://news.zm.com/q32023-earnings",
+      "date": "2023-02-02",
+      "text": "Zoom Video Communications, Inc. (ZM) has published its Q3 2023 earnings, achieving a revenue of $84.14 billion, net income of $13.98 billion, and EPS of $3.61."
+    },
+    {
+      "ticker": "ZM",
+      "title": "Zoom Video Communications, Inc. Reports Q2 2023 Revenue of $13.85B",
+      "url": "https://news.zm.com/q22023-earnings",
+      "date": "2023-09-05",
+      "text": "Zoom Video Communications, Inc. (ZM) today announced its financial results for the Q2 2023, reporting revenue of $13.85 billion and net income of $2.38 billion. Earnings per share (EPS) were $0.49."
+    },
+    {
+      "ticker": "ZM",
+      "title": "Zoom Video Communications, Inc. Posts Strong Q1 2023 Financials",
+      "url": "https://news.zm.com/q12023-earnings",
+      "date": "2023-10-20",
+      "text": "According to today's release, Zoom Video Communications, Inc. (ZM) achieved $38.21B revenue and $4.78B income for Q1 2023, resulting in an EPS of $1.14."
+    },
+    {
+      "ticker": "ZM",
+      "title": "Zoom Video Communications, Inc. Delivers Earnings for Q3 2023",
+      "url": "https://news.zm.com/q32023-earnings",
+      "date": "2023-03-16",
+      "text": "With revenue of $125.92 billion and net income of $14.49 billion, Zoom Video Communications, Inc. (ZM) reported a strong Q3 2023. EPS came in at $3.07."
+    },
+    {
+      "ticker": "ZM",
+      "title": "Zoom Video Communications, Inc. Posts Strong Q3 2023 Financials",
+      "url": "https://news.zm.com/q32023-earnings",
+      "date": "2023-03-22",
+      "text": "During Q3 2023, Zoom Video Communications, Inc. (ZM) achieved revenue of $128.98 billion and net income of $33.61 billion, translating to earnings per share of $7.19."
+    },
+    {
+      "ticker": "ZM",
+      "title": "Zoom Video Communications, Inc. Reports Better-Than-Expected Q1 2023 Earnings",
+      "url": "https://news.zm.com/q12023-earnings",
+      "date": "2023-07-06",
+      "text": "Zoom Video Communications, Inc. (ZM) announced Q1 2023 revenue totaling $30.79 billion, with earnings of $6.28 billion. The resulting EPS was $4.53."
+    },
+    {
+      "ticker": "ZM",
+      "title": "Zoom Video Communications, Inc. Reports Q1 2023 Results",
+      "url": "https://news.zm.com/q12023-earnings",
+      "date": "2023-01-15",
+      "text": "Zoom Video Communications, Inc. (ZM) reported its Q1 2023 earnings today, generating $111.2 billion in revenue and $15.09 billion in profit. EPS stood at $3.99."
+    },
+    {
+      "ticker": "ZM",
+      "title": "Zoom Video Communications, Inc. Issues Q3 2023 Earnings Statement",
+      "url": "https://news.zm.com/q32023-earnings",
+      "date": "2023-06-09",
+      "text": "According to today's release, Zoom Video Communications, Inc. (ZM) achieved $80.58B revenue and $8.84B income for Q3 2023, resulting in an EPS of $3.75."
+    },
+    {
+      "ticker": "ZM",
+      "title": "Zoom Video Communications, Inc. Releases Financial Results for Q2 2023",
+      "url": "https://news.zm.com/q22023-earnings",
+      "date": "2023-08-20",
+      "text": "Zoom Video Communications, Inc. (ZM) today announced its financial results for the Q2 2023, reporting revenue of $109.09 billion and net income of $25.15 billion. Earnings per share (EPS) were $5.7."
+    },
+    {
+      "ticker": "ZM",
+      "title": "Zoom Video Communications, Inc. Releases Financial Results for Q3 2023",
+      "url": "https://news.zm.com/q32023-earnings",
+      "date": "2023-10-10",
+      "text": "According to today's release, Zoom Video Communications, Inc. (ZM) achieved $103.6B revenue and $11.06B income for Q3 2023, resulting in an EPS of $2.22."
+    },
+    {
+      "ticker": "ZM",
+      "title": "Zoom Video Communications, Inc. Reports Q2 2023 Revenue of $42.85B",
+      "url": "https://news.zm.com/q22023-earnings",
+      "date": "2023-05-12",
+      "text": "According to today's release, Zoom Video Communications, Inc. (ZM) achieved $42.85B revenue and $8.31B income for Q2 2023, resulting in an EPS of $8.77."
+    },
+    {
+      "ticker": "ZM",
+      "title": "Zoom Video Communications, Inc. Reports Q1 2023 Results",
+      "url": "https://news.zm.com/q12023-earnings",
+      "date": "2023-09-23",
+      "text": "Zoom Video Communications, Inc. (ZM) announced Q1 2023 revenue totaling $21.07 billion, with earnings of $6.24 billion. The resulting EPS was $1.43."
+    },
+    {
+      "ticker": "ZM",
+      "title": "Zoom Video Communications, Inc. Reports Better-Than-Expected Q2 2023 Earnings",
+      "url": "https://news.zm.com/q22023-earnings",
+      "date": "2023-05-18",
+      "text": "With revenue of $60.98 billion and net income of $9.87 billion, Zoom Video Communications, Inc. (ZM) reported a strong Q2 2023. EPS came in at $3.72."
+    },
+    {
+      "ticker": "ZM",
+      "title": "Zoom Video Communications, Inc. Shares Q4 2023 Financial Highlights",
+      "url": "https://news.zm.com/q42023-earnings",
+      "date": "2023-08-16",
+      "text": "Zoom Video Communications, Inc. (ZM) has published its Q4 2023 earnings, achieving a revenue of $43.48 billion, net income of $11.12 billion, and EPS of $2.67."
+    },
+    {
+      "ticker": "ZM",
+      "title": "Zoom Video Communications, Inc. Announces Q2 2023 Earnings",
+      "url": "https://news.zm.com/q22023-earnings",
+      "date": "2023-10-24",
+      "text": "In the Q2 2023, Zoom Video Communications, Inc. (ZM) posted revenues of $109.37 billion, with net income standing at $28.12 billion. EPS was $9.92."
+    },
+    {
+      "ticker": "ZM",
+      "title": "Zoom Video Communications, Inc. Issues Q3 2023 Earnings Statement",
+      "url": "https://news.zm.com/q32023-earnings",
+      "date": "2023-02-08",
+      "text": "During Q3 2023, Zoom Video Communications, Inc. (ZM) achieved revenue of $100.41 billion and net income of $27.2 billion, translating to earnings per share of $17.88."
+    },
+    {
+      "ticker": "ZM",
+      "title": "Zoom Video Communications, Inc. Shares Q1 2023 Financial Highlights",
+      "url": "https://news.zm.com/q12023-earnings",
+      "date": "2023-10-18",
+      "text": "With revenue of $54.04 billion and net income of $10.42 billion, Zoom Video Communications, Inc. (ZM) reported a strong Q1 2023. EPS came in at $2.14."
+    },
+    {
+      "ticker": "ZM",
+      "title": "Zoom Video Communications, Inc. Announces Q4 2023 Earnings",
+      "url": "https://news.zm.com/q42023-earnings",
+      "date": "2023-01-17",
+      "text": "Zoom Video Communications, Inc. (ZM) reported its Q4 2023 earnings today, generating $103.75 billion in revenue and $29.33 billion in profit. EPS stood at $6.29."
+    },
+    {
+      "ticker": "ZM",
+      "title": "Zoom Video Communications, Inc. Reports Q1 2023 Results",
+      "url": "https://news.zm.com/q12023-earnings",
+      "date": "2023-04-07",
+      "text": "For the Q1 2023, Zoom Video Communications, Inc. (ZM) revealed financials showing $140.11 billion in revenue and $28.56 billion in net profit. EPS was reported as $6.81."
+    },
+    {
+      "ticker": "ZM",
+      "title": "Zoom Video Communications, Inc. Reports Q2 2023 Revenue of $39.01B",
+      "url": "https://news.zm.com/q22023-earnings",
+      "date": "2023-07-03",
+      "text": "In the Q2 2023, Zoom Video Communications, Inc. (ZM) posted revenues of $39.01 billion, with net income standing at $6.01 billion. EPS was $9.02."
+    }
+  ]
+}
